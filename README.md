@@ -20,6 +20,9 @@ Cảnh cuối có `"frame": "book"` là thẻ CTA toàn màn hình, engine tự 
 
 ## Làm một tập mới
 
+Nhanh nhất: trong Claude Code gõ `/tao-video Nhà Giả Kim + Paulo Coelho + 3` (tên sách + tác giả + số phút).
+Skill `.claude/skills/tao-video` tự chạy hết các bước dưới đây.
+
 ```bash
 # 1. Tạo khung tập (tự đăng ký vào studio)
 python tools/new_book.py nha-gia-kim "Nhà Giả Kim" "Paulo Coelho"
