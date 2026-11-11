@@ -1,0 +1,18 @@
+node_modules/
+out/
+__pycache__/
+*.pyc
+
+# Bí mật: copy .env.example thành .env trên máy mới
+.env
+.env.*
+!.env.example
+
+# Model Whisper (~500 MB) tự tải lại lần đầu chạy align_vi.py
+library/whisper/
+
+# Series cũ không cần để làm video mới
+_archive/
+
+# Cache của skill
+.claude/skills/what-if-animation/what-if-studio/

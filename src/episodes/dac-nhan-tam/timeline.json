@@ -1,0 +1,249 @@
+{
+ "slug": "dac-nhan-tam",
+ "title": "30 NGÀY KHÔNG CHÊ AI ĐIỀU GÌ SẼ XẢY RA?",
+ "fps": 30,
+ "total": 706,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 63,
+   "t0": 0,
+   "t1": 63,
+   "line": "Điều gì xảy ra nếu 30 ngày liền,"
+  },
+  {
+   "shot": "S2",
+   "a": 63,
+   "b": 118,
+   "t0": 0,
+   "t1": 55,
+   "line": "bạn không chê trách bất kỳ ai?"
+  },
+  {
+   "shot": "S3",
+   "a": 118,
+   "b": 164,
+   "t0": 0,
+   "t1": 46,
+   "line": "Ngày 1. Sếp làm sai."
+  },
+  {
+   "shot": "S4",
+   "a": 164,
+   "b": 212,
+   "t0": 0,
+   "t1": 48,
+   "line": "Bạn suýt nói, rồi im lặng,"
+  },
+  {
+   "shot": "S5",
+   "a": 212,
+   "b": 244,
+   "t0": 0,
+   "t1": 32,
+   "line": "và hỏi ý sếp."
+  },
+  {
+   "shot": "S6",
+   "a": 244,
+   "b": 289,
+   "t0": 0,
+   "t1": 45,
+   "line": "Ngày 7. Bạn khen thật lòng."
+  },
+  {
+   "shot": "S7",
+   "a": 289,
+   "b": 326,
+   "t0": 0,
+   "t1": 37,
+   "line": "Đồng nghiệp bắt đầu giúp bạn."
+  },
+  {
+   "shot": "S8",
+   "a": 326,
+   "b": 370,
+   "t0": 0,
+   "t1": 44,
+   "line": "Ngày 30. Người khó tính nhất"
+  },
+  {
+   "shot": "S9",
+   "a": 370,
+   "b": 409,
+   "t0": 0,
+   "t1": 39,
+   "line": "cũng bắt đầu lắng nghe bạn."
+  },
+  {
+   "shot": "S10",
+   "a": 409,
+   "b": 468,
+   "t0": 0,
+   "t1": 59,
+   "line": "Đây là nguyên tắc đầu tiên trong Đắc Nhân Tâm."
+  },
+  {
+   "shot": "S11",
+   "a": 468,
+   "b": 573,
+   "t0": 0,
+   "t1": 105,
+   "line": "Cuốn sách từ năm 1936, đã bán hơn 30 triệu bản."
+  },
+  {
+   "shot": "CTA",
+   "a": 573,
+   "b": 706,
+   "t0": 0,
+   "t1": 133,
+   "line": "Muốn đọc đủ 30 nguyên tắc? Bấm giỏ hàng vàng bên dưới nhé."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close-up",
+   "key": 20,
+   "len": 63,
+   "first": 0,
+   "line": "Điều gì xảy ra nếu 30 ngày liền,",
+   "note": "Bạn nhìn thẳng ống kính, mỉm cười như vừa nhận một thử thách"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 30,
+   "len": 55,
+   "first": 63,
+   "line": "bạn không chê trách bất kỳ ai?",
+   "note": "Lịch treo tường: 30 ngày bị gạch chéo rất nhanh"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 14,
+   "len": 46,
+   "first": 118,
+   "line": "Ngày 1. Sếp làm sai.",
+   "note": "NGÀY 1: sếp chỉ vào biểu đồ, làm sai; bạn đứng gần, lo lắng"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 12,
+   "len": 48,
+   "first": 164,
+   "line": "Bạn suýt nói, rồi im lặng,",
+   "note": "Bạn suýt nói (giận, há miệng) rồi dừng lại, bình tĩnh"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 16,
+   "len": 32,
+   "first": 212,
+   "line": "và hỏi ý sếp.",
+   "note": "Bạn hỏi ý sếp; sếp ngạc nhiên rồi mỉm cười"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 14,
+   "len": 45,
+   "first": 244,
+   "line": "Ngày 7. Bạn khen thật lòng.",
+   "note": "NGÀY 7: bạn khen Mo, Mo vui ra mặt"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 16,
+   "len": 37,
+   "first": 289,
+   "line": "Đồng nghiệp bắt đầu giúp bạn.",
+   "note": "Mo mang chồng giấy đã làm xong đặt lên bàn bạn"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 10,
+   "len": 44,
+   "first": 326,
+   "line": "Ngày 30. Người khó tính nhất",
+   "note": "NGÀY 30: người khó tính nhất, cau có"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 18,
+   "len": 39,
+   "first": 370,
+   "line": "cũng bắt đầu lắng nghe bạn.",
+   "note": "Anh ta dịu lại, gật đầu, lắng nghe"
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "key": 34,
+   "len": 59,
+   "first": 409,
+   "line": "Đây là nguyên tắc đầu tiên trong Đắc Nhân Tâm.",
+   "note": "Cuốn sách hiện lên; NGUYÊN TẮC SỐ 1: KHÔNG CHỈ TRÍCH"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 100,
+   "len": 105,
+   "first": 468,
+   "line": "Cuốn sách từ năm 1936, đã bán hơn 30 triệu bản.",
+   "note": "1936, rồi 30.000.000 bản đếm lên"
+  },
+  {
+   "id": "CTA",
+   "size": "end card",
+   "key": 40,
+   "len": 133,
+   "first": 573,
+   "line": "Muốn đọc đủ 30 nguyên tắc? Bấm giỏ hàng vàng bên dưới nhé.",
+   "note": "Bìa sách, giá, nút giỏ hàng vàng"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 118
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 244
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35,
+   "f": 326
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 6,
+   "f": 172
+  },
+  {
+   "kind": "flash",
+   "color": "#FFD43B",
+   "o": 0.5,
+   "f": 573
+  }
+ ],
+ "audio": {
+  "voice": "dac-nhan-tam/voice.wav"
+ }
+}

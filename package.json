@@ -1,0 +1,25 @@
+{
+  "name": "sach-affiliate-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Video affiliate bán sách 9:16 (TikTok/Shopee): hoạt hình SVG vẽ bằng code (Remotion), giọng và phụ đề tiếng Việt.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --port 3430",
+    "typecheck": "tsc --noEmit",
+    "new": "python tools/new_book.py"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.530",
+    "@remotion/cli": "4.0.530",
+    "@remotion/fonts": "4.0.530",
+    "@remotion/google-fonts": "4.0.530",
+    "@remotion/renderer": "4.0.530",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.530"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "typescript": "5.8.2"
+  }
+}

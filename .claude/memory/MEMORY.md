@@ -1,0 +1,1 @@
+- [Voice preference](voice-preference.md) — Chirp3-HD-Sadaltager, speed 1.05–1.1, no cart/price on screen

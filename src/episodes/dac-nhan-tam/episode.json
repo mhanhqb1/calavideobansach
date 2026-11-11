@@ -1,0 +1,320 @@
+{
+ "id": "DacNhanTam",
+ "slug": "dac-nhan-tam",
+ "format": "vertical",
+ "topic": "Điều gì xảy ra nếu 30 ngày liền, bạn không chê trách bất kỳ ai?",
+ "title": [
+  "30 NGÀY KHÔNG CHÊ AI",
+  "ĐIỀU GÌ SẼ XẢY RA?"
+ ],
+ "hook": [
+  "30 NGÀY KHÔNG CHÊ AI",
+  "ĐIỀU GÌ SẼ XẢY RA?"
+ ],
+ "accent": "30 NGÀY",
+ "book": {
+  "title": "Đắc Nhân Tâm",
+  "author": "Dale Carnegie",
+  "badge": "Sách kinh điển",
+  "platform": "tiktok",
+  "color": "#C8432B",
+  "_note": "Đặt ảnh bìa ở public/dac-nhan-tam/cover.jpg rồi ghi \"cover\": \"dac-nhan-tam/cover.jpg\"."
+ },
+ "tts": "google",
+ "voice": {
+  "edge": "vi-VN-HoaiMyNeural",
+  "rate": "+12%",
+  "id": "TX3LPaxmHKxFdv7VOQHJ",
+  "model": "eleven_turbo_v2_5",
+  "google": "vi-VN-Chirp3-HD-Sadaltager",
+  "speed": 1.1
+ },
+ "script": [
+  {
+   "beat": "1 hook (0-3 s): câu hỏi Điều gì xảy ra nếu",
+   "text": "Điều gì xảy ra nếu 30 ngày liền, bạn không chê trách bất kỳ ai?"
+  },
+  {
+   "beat": "2 demo 1 (nhỏ): với sếp",
+   "text": "Ngày 1. Sếp làm sai. Bạn suýt nói, rồi im lặng, và hỏi ý sếp."
+  },
+  {
+   "beat": "3 demo 2 (lan ra): đồng nghiệp",
+   "text": "Ngày 7. Bạn khen thật lòng. Đồng nghiệp bắt đầu giúp bạn."
+  },
+  {
+   "beat": "4 demo 3 (bất ngờ): người khó nhất",
+   "text": "Ngày 30. Người khó tính nhất cũng bắt đầu lắng nghe bạn."
+  },
+  {
+   "beat": "5 cú chuyển: cuốn sách và một con số thật",
+   "text": "Đây là nguyên tắc đầu tiên trong Đắc Nhân Tâm. Cuốn sách từ năm 1936, đã bán hơn 30 triệu bản."
+  },
+  {
+   "beat": "6 CTA",
+   "text": "Muốn đọc đủ 30 nguyên tắc? Bấm giỏ hàng vàng bên dưới nhé."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Không chỉ trích là nguyên tắc đầu tiên của Đắc Nhân Tâm.",
+   "working": "Phần 1, nguyên tắc 1 của How to Win Friends and Influence People: 'Don't criticize, condemn, or complain' (Không chỉ trích, oán trách hay than phiền).",
+   "source": "Dale Carnegie, How to Win Friends and Influence People (1936), Part One, Principle 1"
+  },
+  {
+   "claim": "Sách xuất bản năm 1936, bán hơn 30 triệu bản.",
+   "working": "Xuất bản lần đầu tháng 10/1936 (Simon & Schuster). Con số thường được trích: hơn 30 triệu bản trên toàn thế giới.",
+   "source": "Wikipedia: How to Win Friends and Influence People"
+  },
+  {
+   "claim": "Sách có 30 nguyên tắc.",
+   "working": "Phần 1: 3 nguyên tắc, Phần 2: 6, Phần 3: 12, Phần 4: 9. Tổng 30 (bản gốc 1936).",
+   "source": "Dale Carnegie, How to Win Friends and Influence People, mục lục"
+  }
+ ],
+ "cast": [
+  "pipWork",
+  "jefa",
+  "mo",
+  "suit"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close-up",
+   "set": "office (blurred)",
+   "key": 20,
+   "note": "Bạn nhìn thẳng ống kính, mỉm cười như vừa nhận một thử thách",
+   "frame": {
+    "x": 960,
+    "y": 560,
+    "zoom": 1.0,
+    "zoomTo": 1.08
+   }
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "study (wall calendar)",
+   "key": 30,
+   "note": "Lịch treo tường: 30 ngày bị gạch chéo rất nhanh",
+   "frame": {
+    "x": 960,
+    "y": 520,
+    "zoom": 1.05
+   }
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "office",
+   "key": 14,
+   "note": "NGÀY 1: sếp chỉ vào biểu đồ, làm sai; bạn đứng gần, lo lắng",
+   "frame": {
+    "pan": [
+     900,
+     1040
+    ],
+    "zoom": 0.9
+   }
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "office (blurred)",
+   "key": 12,
+   "note": "Bạn suýt nói (giận, há miệng) rồi dừng lại, bình tĩnh",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "set": "office",
+   "key": 16,
+   "note": "Bạn hỏi ý sếp; sếp ngạc nhiên rồi mỉm cười",
+   "frame": {
+    "pan": [
+     880,
+     1060
+    ],
+    "zoom": 1.0
+   }
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "office",
+   "key": 14,
+   "note": "NGÀY 7: bạn khen Mo, Mo vui ra mặt",
+   "frame": {
+    "pan": [
+     920,
+     1060
+    ],
+    "zoom": 0.95
+   }
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "office",
+   "key": 16,
+   "note": "Mo mang chồng giấy đã làm xong đặt lên bàn bạn",
+   "frame": {
+    "pan": [
+     1000,
+     1110
+    ],
+    "zoom": 0.92
+   }
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "office (blurred)",
+   "key": 10,
+   "note": "NGÀY 30: người khó tính nhất, cau có",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "office (blurred)",
+   "key": 18,
+   "note": "Anh ta dịu lại, gật đầu, lắng nghe",
+   "frame": {
+    "x": 960,
+    "y": 560,
+    "zoom": 1.0,
+    "zoomTo": 1.1
+   }
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 34,
+   "note": "Cuốn sách hiện lên; NGUYÊN TẮC SỐ 1: KHÔNG CHỈ TRÍCH",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 100,
+   "note": "1936, rồi 30.000.000 bản đếm lên",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "CTA",
+   "size": "end card",
+   "set": "book card",
+   "key": 40,
+   "note": "Bìa sách, giá, nút giỏ hàng vàng",
+   "frame": "book"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "Điều"
+  },
+  {
+   "shot": "S2",
+   "at": "bạn"
+  },
+  {
+   "shot": "S3",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S4",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S5",
+   "at": "và"
+  },
+  {
+   "shot": "S6",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S7",
+   "at": "Đồng"
+  },
+  {
+   "shot": "S8",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S9",
+   "at": "cũng"
+  },
+  {
+   "shot": "S10",
+   "at": "Đây"
+  },
+  {
+   "shot": "S11",
+   "at": "Cuốn"
+  },
+  {
+   "shot": "CTA",
+   "at": "Muốn"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S3",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "S6",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "S8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.35
+  },
+  {
+   "at": "S4+8",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "CTA",
+   "kind": "flash",
+   "color": "#FFD43B",
+   "o": 0.5
+  }
+ ],
+ "tail": 1.6,
+ "cover": {
+  "shot": "S2",
+  "t": 40,
+  "text": [
+   "30 NGÀY KHÔNG CHÊ AI",
+   "VÀ CÁI KẾT"
+  ]
+ }
+}

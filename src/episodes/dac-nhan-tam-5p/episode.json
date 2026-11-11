@@ -1,0 +1,2081 @@
+{
+ "id": "DacNhanTam5p",
+ "slug": "dac-nhan-tam-5p",
+ "format": "vertical",
+ "topic": "Điều gì xảy ra nếu 30 ngày sống đúng theo Đắc Nhân Tâm?",
+ "title": [
+  "30 NGÀY SỐNG THEO",
+  "ĐẮC NHÂN TÂM"
+ ],
+ "hook": [
+  "30 NGÀY SỐNG THEO",
+  "ĐẮC NHÂN TÂM"
+ ],
+ "accent": "30 NGÀY",
+ "book": {
+  "title": "Đắc Nhân Tâm",
+  "author": "Dale Carnegie",
+  "badge": "Sách kinh điển",
+  "platform": "tiktok",
+  "color": "#C8432B",
+  "_note": "Đặt ảnh bìa ở public/dac-nhan-tam-5p/cover.jpg rồi ghi \"cover\": \"dac-nhan-tam-5p/cover.jpg\"."
+ },
+ "tts": "google",
+ "voice": {
+  "google": "vi-VN-Chirp3-HD-Sadaltager",
+  "speed": 1.05
+ },
+ "script": [
+  {
+   "beat": "01 hook + tựa",
+   "text": "Điều gì xảy ra nếu suốt 30 ngày, bạn sống đúng theo một cuốn sách viết từ năm 1936? Không chê ai. Nhớ tên từng người. Không bao giờ thắng một cuộc cãi vã. Nghe thì dễ. Nhưng đến ngày thứ 30, mọi thứ quanh bạn sẽ khác hẳn. Đây là 30 ngày sống theo Đắc Nhân Tâm."
+  },
+  {
+   "beat": "02 ngày 1: không chỉ trích",
+   "text": "Ngày 1. Luật đầu tiên: không chỉ trích, không oán trách, không than phiền. Sếp giao việc sai. Bạn định cãi, rồi nuốt lời lại. Đồng nghiệp đến muộn. Bạn im lặng. Khó lắm, vì chê người khác là phản xạ. Nhưng Carnegie viết: chỉ trích chỉ khiến người ta phòng thủ, và tìm cách bào chữa cho mình."
+  },
+  {
+   "beat": "03 Lincoln",
+   "text": "Chuyện thật trong sách. Năm 1863, sau trận Gettysburg, Tổng thống Lincoln viết một lá thư trách nặng vị tướng đã để quân địch chạy thoát. Nhưng ông không bao giờ gửi. Lá thư được tìm thấy trong giấy tờ của ông, sau khi ông mất. Lincoln hiểu: một lời trách nặng chẳng sửa được gì, chỉ làm mất đi một người."
+  },
+  {
+   "beat": "04 ngày 3: khen thật lòng",
+   "text": "Ngày 3. Luật thứ hai: khen thật lòng và chân thành. Không phải nịnh. Nịnh là nói điều người ta muốn nghe. Khen là nhìn thấy điều tốt có thật. Bạn khen bác bảo vệ vì hàng xe luôn được xếp ngay ngắn. Bác cười cả buổi. Hôm sau, xe của bạn được dắt vào chỗ mát nhất."
+  },
+  {
+   "beat": "05 Schwab",
+   "text": "Cũng trong sách. Năm 1921, Charles Schwab được trả hơn một triệu đô một năm. Không phải vì ông giỏi luyện thép nhất. Ông nói bí quyết của mình là: khen ngợi thật hào phóng, và rất ngại chê bai. Vì người ta làm việc tốt hơn khi được ghi nhận, chứ không phải khi bị soi lỗi."
+  },
+  {
+   "beat": "05b khơi dậy mong muốn",
+   "text": "Luật thứ ba của phần một: khơi dậy mong muốn ở người khác. Carnegie kể, ông rất thích dâu tây với kem. Nhưng khi đi câu, ông không móc dâu vào lưỡi câu. Ông móc giun, vì cá thích giun. Muốn ai làm gì, hãy nói về điều họ muốn, chứ không phải điều bạn muốn."
+  },
+  {
+   "beat": "06 ngày 7: quan tâm, mỉm cười",
+   "text": "Ngày 7. Bạn sang phần hai: cách khiến người khác quý mến mình. Quan tâm thật lòng. Và mỉm cười. Bạn hỏi cô bán bánh mì về đứa con vừa vào lớp một. Cô kể say sưa. Bạn gần như không nói gì. Vậy mà lúc về, cô bảo: nói chuyện với em vui ghê."
+  },
+  {
+   "beat": "07 ngày 10: nhớ tên",
+   "text": "Ngày 10. Bạn tập nhớ tên. Carnegie viết: tên của một người là âm thanh ngọt ngào và quan trọng nhất với chính họ. Vua thép Andrew Carnegie từng đặt tên nhà máy theo tên chủ tịch một công ty đường sắt, để bán thép cho công ty đó. Bạn gọi đúng tên chị lao công. Chị khựng lại, rồi mỉm cười."
+  },
+  {
+   "beat": "08 ngày 14: lắng nghe",
+   "text": "Ngày 14. Lắng nghe, và khuyến khích người khác nói về chính họ. Bạn gặp vị khách hàng khó tính nhất. Bạn không chào hàng. Bạn hỏi anh ấy đã bắt đầu sự nghiệp thế nào. Anh nói suốt một tiếng. Cuối buổi, anh ký hợp đồng. Còn bạn, chỉ nói đúng vài câu."
+  },
+  {
+   "beat": "08b làm người khác thấy mình quan trọng",
+   "text": "Ngày 16. Luật cuối của phần hai: làm người khác thấy mình quan trọng, một cách chân thành. Carnegie kể, ở một bưu điện, ông thấy anh nhân viên cân thư uể oải. Ông khen mái tóc anh thật đẹp. Anh ngẩng lên, cười rạng rỡ. Carnegie chẳng cần gì từ anh ấy. Ông chỉ muốn để lại một chút niềm vui."
+  },
+  {
+   "beat": "09 ngày 18: tránh tranh cãi",
+   "text": "Ngày 18. Phần ba: thuyết phục người khác. Luật đầu tiên nghe lạ nhất: cách duy nhất để thắng một cuộc tranh cãi là tránh nó. Vì kể cả khi bạn thắng, người kia vẫn thấy mình bị bẽ mặt. Ở buổi họp, bạn nói: có thể tôi sai, mình cùng xem lại nhé. Cả phòng dịu hẳn."
+  },
+  {
+   "beat": "09b khiến người khác nói vâng",
+   "text": "Ngày 19. Bạn học cách khiến người khác nói vâng. Đừng mở đầu bằng điểm bất đồng. Hãy bắt đầu bằng điều cả hai cùng đồng ý. Mình đều muốn dự án xong sớm, đúng không? Vâng. Khách đang khó chịu vì phải chờ lâu? Vâng. Đến câu thứ ba, người ta đã quen gật đầu. Carnegie gọi đây là cách của Socrates."
+  },
+  {
+   "beat": "10 ngày 21: nhận lỗi, ý tưởng của họ",
+   "text": "Ngày 21. Bạn làm sai một việc. Lần này, bạn nhận lỗi trước, nhanh và rõ ràng, trước khi sếp kịp nói. Sếp định trách, rồi lại quay sang động viên bạn. Bạn thử thêm một cách: đặt câu hỏi, để người khác tự nghĩ ra ý tưởng. Vì ai cũng tin ý tưởng của chính mình hơn."
+  },
+  {
+   "beat": "10b nhìn từ góc độ người kia",
+   "text": "Ngày 23. Bạn tập nhìn mọi việc từ góc độ của người kia. Hàng xóm mở nhạc to lúc nửa đêm. Thay vì đập cửa, bạn hỏi: chắc hôm nay nhà mình có chuyện vui à? Anh ấy ngượng ngùng, xin lỗi, rồi vặn nhỏ. Ai cũng có lý do của họ. Hiểu được lý do đó, bạn đã cầm chìa khoá."
+  },
+  {
+   "beat": "11 ngày 25: lãnh đạo",
+   "text": "Ngày 25. Phần bốn: giúp người khác thay đổi mà không làm họ tự ái. Bạn kèm một bạn thực tập. Bạn bắt đầu bằng lời khen. Nhắc lỗi một cách gián tiếp. Kể lỗi của chính mình trước. Đặt câu hỏi thay vì ra lệnh. Và khen cả tiến bộ nhỏ nhất. Hai tuần sau, bạn ấy làm tốt hơn bạn mong đợi."
+  },
+  {
+   "beat": "12 cú chuyển: cái bẫy",
+   "text": "Nhưng có một cái bẫy. Nếu bạn dùng những điều này như mánh khoé, người ta sẽ nhận ra. Carnegie nói rõ: lời khen giả dối là nịnh hót, và nịnh hót sớm muộn cũng lộ. Đắc Nhân Tâm không dạy bạn diễn. Nó dạy bạn thật sự quan tâm đến người khác. Và đó là phần khó nhất."
+  },
+  {
+   "beat": "13 ngày 30",
+   "text": "Ngày 30. Không có phép màu nào cả. Chỉ là mọi người quanh bạn dễ chịu hơn, vì chính bạn dễ chịu hơn. Cuốn sách ra đời năm 1936, đã bán hơn 30 triệu bản, và đến giờ vẫn được đọc khắp thế giới. Nó có 30 nguyên tắc. Bạn vừa nghe hơn một nửa."
+  },
+  {
+   "beat": "14 CTA",
+   "text": "Phần còn lại, cùng những câu chuyện thật đằng sau từng nguyên tắc, nằm trong sách. Nếu chỉ đọc một cuốn về giao tiếp, hãy bắt đầu từ cuốn này. Link sách ở ngay bên dưới. Đọc thử vài trang, bạn sẽ hiểu vì sao nó sống được gần một trăm năm."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sách xuất bản năm 1936, bán hơn 30 triệu bản, có 30 nguyên tắc.",
+   "working": "Xuất bản 10/1936 (Simon & Schuster). Hơn 30 triệu bản là con số thường trích. Nguyên tắc: 3 + 6 + 12 + 9 = 30 (bản gốc).",
+   "source": "Wikipedia: How to Win Friends and Influence People; mục lục sách"
+  },
+  {
+   "claim": "Lincoln viết thư trách tướng Meade sau Gettysburg (7/1863) nhưng không gửi; thư được tìm thấy trong giấy tờ của ông sau khi ông mất.",
+   "working": "Kể trong Phần 1, Chương 1 của sách. Thư đề ngày 14/7/1863.",
+   "source": "Dale Carnegie, How to Win Friends..., Part 1 ch.1; Abraham Lincoln Papers (Library of Congress)"
+  },
+  {
+   "claim": "Năm 1921 Charles Schwab được trả hơn 1 triệu đô một năm; bí quyết: khen hào phóng, ngại chê bai.",
+   "working": "Phần 1, Chương 2: 'I am anxious to praise but loath to find fault.'",
+   "source": "Dale Carnegie, How to Win Friends..., Part 1 ch.2"
+  },
+  {
+   "claim": "Andrew Carnegie đặt tên nhà máy thép theo chủ tịch công ty đường sắt để bán thép.",
+   "working": "Phần 2, Chương 3: Edgar Thomson Steel Works, đặt theo J. Edgar Thomson, chủ tịch Pennsylvania Railroad.",
+   "source": "Dale Carnegie, How to Win Friends..., Part 2 ch.3"
+  },
+  {
+   "claim": "Dâu tây với kem / cá thích giun; khen tóc anh nhân viên bưu điện; phương pháp Socrates (nói vâng).",
+   "working": "Phần 1 ch.3 (strawberries and cream, fish prefer worms); Phần 2 ch.6 (post office clerk's hair); Phần 3 ch.5 (Socratic 'yes, yes').",
+   "source": "Dale Carnegie, How to Win Friends..."
+  },
+  {
+   "claim": "Tên là âm thanh ngọt ngào và quan trọng nhất với một người; cách duy nhất thắng tranh cãi là tránh nó.",
+   "working": "Nguyên tắc Phần 2 số 3 và Phần 3 số 1, trích gần nguyên văn.",
+   "source": "Dale Carnegie, How to Win Friends..., Part 2 & 3"
+  },
+  {
+   "claim": "Các tình huống bác bảo vệ, cô bán bánh mì, chị lao công, khách hàng, thực tập sinh là dựng minh hoạ.",
+   "working": "Kịch bản giả định 'Điều gì xảy ra nếu', không phải sự kiện thật.",
+   "source": "-"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bạn, thử thách 30 ngày",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S2",
+   "size": "book",
+   "set": "",
+   "key": 30,
+   "note": "cuốn sách 1936",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S3",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "Mo làm rơi giấy, bạn không chê",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S4",
+   "size": "street",
+   "set": "",
+   "key": 30,
+   "note": "chào đúng tên bác bảo vệ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "Mo cãi, bạn nhún vai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bạn tự tin",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "lịch 30 ngày gạch chéo",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S8",
+   "size": "title",
+   "set": "",
+   "key": 30,
+   "note": "30 NGÀY SỐNG THEO ĐẮC NHÂN TÂM",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 1",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "nguyên tắc 1",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "sếp giao việc sai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "định cãi rồi thôi",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "Mo đến muộn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "im lặng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "khó lắm",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S16",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "chỉ trích khiến người ta phòng thủ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S17",
+   "size": "book",
+   "set": "",
+   "key": 30,
+   "note": "chuyện thật trong sách",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "Gettysburg 1863",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "Lincoln viết thư",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "KHÔNG GỬI",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "thư tìm thấy sau khi ông mất",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S22",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "bài học của Lincoln",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 3",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S24",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "nguyên tắc 2",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S25",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "nịnh: sai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S26",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "khen: đúng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S27",
+   "size": "street",
+   "set": "",
+   "key": 30,
+   "note": "khen bác bảo vệ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S28",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bác cười",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S29",
+   "size": "street",
+   "set": "",
+   "key": 30,
+   "note": "chỗ mát nhất",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S30",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "Charles Schwab 1921",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S31",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "hơn 1 triệu đô",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S32",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "không phải giỏi luyện thép",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S33",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "khen hào phóng, ngại chê",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S34",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "được ghi nhận",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S35",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bị soi lỗi",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S36",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "nguyên tắc 3",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S37",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "dâu tây với kem",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S38",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "móc dâu? sai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S39",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "cá thích giun",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S40",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "nói về điều họ muốn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S41",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 7",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S42",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "phần 2",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S43",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "mỉm cười",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S44",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "cô bán bánh mì",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S45",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cô kể say sưa",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S46",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "bạn lắng nghe",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S47",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "nói chuyện với em vui ghê",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S48",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 10",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S49",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "tập nhớ tên",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S50",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "tên là âm thanh ngọt ngào nhất",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S51",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "Andrew Carnegie",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S52",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "Edgar Thomson Steel Works",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S53",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "chào chị Lan",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S54",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "chị lao công mỉm cười",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S55",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 14",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S56",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "lắng nghe",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S57",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "khách hàng khó tính",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S58",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "không chào hàng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S59",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "hỏi về sự nghiệp",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S60",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "nói suốt 1 tiếng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S61",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "ký hợp đồng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S62",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "chỉ nói vài câu",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S63",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 16",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S64",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "làm người khác thấy quan trọng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S65",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "nhân viên bưu điện uể oải",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S66",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "khen mái tóc",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S67",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cười rạng rỡ",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S68",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "một chút niềm vui",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S69",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 18",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S70",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "phần 3",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S71",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "tránh tranh cãi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S72",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "thắng mà người kia bẽ mặt",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S73",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "có thể tôi sai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S74",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "cả phòng dịu hẳn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S75",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 19",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S76",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "nói vâng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S77",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "đừng mở đầu bằng bất đồng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S78",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "bắt đầu bằng đồng ý",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S79",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "dự án xong sớm?",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S80",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "vâng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S81",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "khách chờ lâu?",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S82",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "vâng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S83",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "quen gật đầu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S84",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "Socrates",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S85",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 21",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S86",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "làm sai",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S87",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "nhận lỗi trước",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S88",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "sếp động viên",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S89",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "đặt câu hỏi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S90",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "ý tưởng của chính mình",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S91",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 23",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S92",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "góc nhìn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S93",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "nhạc to nửa đêm",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S94",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "có chuyện vui à?",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S95",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "xin lỗi, vặn nhỏ",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S96",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "ai cũng có lý do",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S97",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "cầm chìa khoá",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S98",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 25",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S99",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "phần 4",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S100",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "kèm thực tập",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S101",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bắt đầu bằng lời khen",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S102",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "nhắc lỗi gián tiếp",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S103",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "kể lỗi mình trước",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S104",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "hỏi thay vì ra lệnh",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S105",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "khen tiến bộ nhỏ",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S106",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "làm tốt hơn mong đợi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S107",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cái bẫy",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S108",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "mánh khoé bị nhận ra",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S109",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "nịnh hót sớm muộn cũng lộ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S110",
+   "size": "book",
+   "set": "",
+   "key": 30,
+   "note": "không dạy bạn diễn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S111",
+   "size": "street",
+   "set": "",
+   "key": 30,
+   "note": "thật sự quan tâm",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S112",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "phần khó nhất",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S113",
+   "size": "insert",
+   "set": "",
+   "key": 30,
+   "note": "NGÀY 30",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S114",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "không có phép màu",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S115",
+   "size": "wide",
+   "set": "",
+   "key": 30,
+   "note": "mọi người dễ chịu hơn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S116",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "1936",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S117",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "30 triệu bản",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S118",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "30 nguyên tắc",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S119",
+   "size": "book",
+   "set": "",
+   "key": 30,
+   "note": "phần còn lại trong sách",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S120",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bắt đầu từ cuốn này",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "CTA",
+   "size": "end card",
+   "set": "",
+   "key": 30,
+   "note": "link sách bên dưới",
+   "frame": "book"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "bạn"
+  },
+  {
+   "shot": "S3",
+   "at": "Không"
+  },
+  {
+   "shot": "S4",
+   "at": "Nhớ"
+  },
+  {
+   "shot": "S5",
+   "at": "Không"
+  },
+  {
+   "shot": "S6",
+   "at": "Nghe"
+  },
+  {
+   "shot": "S7",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S8",
+   "at": "Đây"
+  },
+  {
+   "shot": "S9",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S10",
+   "at": "Luật"
+  },
+  {
+   "shot": "S11",
+   "at": "Sếp"
+  },
+  {
+   "shot": "S12",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S13",
+   "at": "Đồng"
+  },
+  {
+   "shot": "S14",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S15",
+   "at": "Khó"
+  },
+  {
+   "shot": "S16",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S17",
+   "at": "Chuyện"
+  },
+  {
+   "shot": "S18",
+   "at": "Năm"
+  },
+  {
+   "shot": "S19",
+   "at": "Tổng"
+  },
+  {
+   "shot": "S20",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S21",
+   "at": "Lá"
+  },
+  {
+   "shot": "S22",
+   "at": "Lincoln"
+  },
+  {
+   "shot": "S23",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S24",
+   "at": "Luật"
+  },
+  {
+   "shot": "S25",
+   "at": "Không"
+  },
+  {
+   "shot": "S26",
+   "at": "Khen"
+  },
+  {
+   "shot": "S27",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S28",
+   "at": "Bác#2"
+  },
+  {
+   "shot": "S29",
+   "at": "Hôm"
+  },
+  {
+   "shot": "S30",
+   "at": "Cũng"
+  },
+  {
+   "shot": "S31",
+   "at": "được"
+  },
+  {
+   "shot": "S32",
+   "at": "Không"
+  },
+  {
+   "shot": "S33",
+   "at": "Ông#2"
+  },
+  {
+   "shot": "S34",
+   "at": "Vì"
+  },
+  {
+   "shot": "S35",
+   "at": "chứ"
+  },
+  {
+   "shot": "S36",
+   "at": "Luật"
+  },
+  {
+   "shot": "S37",
+   "at": "Carnegie"
+  },
+  {
+   "shot": "S38",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S39",
+   "at": "Ông#2"
+  },
+  {
+   "shot": "S40",
+   "at": "Muốn"
+  },
+  {
+   "shot": "S41",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S42",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S43",
+   "at": "Quan"
+  },
+  {
+   "shot": "S44",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S45",
+   "at": "Cô#2"
+  },
+  {
+   "shot": "S46",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S47",
+   "at": "Vậy"
+  },
+  {
+   "shot": "S48",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S49",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S50",
+   "at": "Carnegie"
+  },
+  {
+   "shot": "S51",
+   "at": "Vua"
+  },
+  {
+   "shot": "S52",
+   "at": "đặt"
+  },
+  {
+   "shot": "S53",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S54",
+   "at": "Chị#2"
+  },
+  {
+   "shot": "S55",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S56",
+   "at": "Lắng"
+  },
+  {
+   "shot": "S57",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S58",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S59",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S60",
+   "at": "Anh"
+  },
+  {
+   "shot": "S61",
+   "at": "Cuối"
+  },
+  {
+   "shot": "S62",
+   "at": "Còn"
+  },
+  {
+   "shot": "S63",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S64",
+   "at": "Luật"
+  },
+  {
+   "shot": "S65",
+   "at": "Carnegie"
+  },
+  {
+   "shot": "S66",
+   "at": "Ông#2"
+  },
+  {
+   "shot": "S67",
+   "at": "Anh#2"
+  },
+  {
+   "shot": "S68",
+   "at": "Carnegie"
+  },
+  {
+   "shot": "S69",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S70",
+   "at": "Phần"
+  },
+  {
+   "shot": "S71",
+   "at": "Luật"
+  },
+  {
+   "shot": "S72",
+   "at": "Vì"
+  },
+  {
+   "shot": "S73",
+   "at": "Ở"
+  },
+  {
+   "shot": "S74",
+   "at": "Cả"
+  },
+  {
+   "shot": "S75",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S76",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S77",
+   "at": "Đừng"
+  },
+  {
+   "shot": "S78",
+   "at": "Hãy"
+  },
+  {
+   "shot": "S79",
+   "at": "Mình"
+  },
+  {
+   "shot": "S80",
+   "at": "Vâng"
+  },
+  {
+   "shot": "S81",
+   "at": "Khách"
+  },
+  {
+   "shot": "S82",
+   "at": "Vâng"
+  },
+  {
+   "shot": "S83",
+   "at": "Đến"
+  },
+  {
+   "shot": "S84",
+   "at": "Carnegie"
+  },
+  {
+   "shot": "S85",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S86",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S87",
+   "at": "Lần"
+  },
+  {
+   "shot": "S88",
+   "at": "Sếp#2"
+  },
+  {
+   "shot": "S89",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S90",
+   "at": "Vì"
+  },
+  {
+   "shot": "S91",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S92",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S93",
+   "at": "Hàng"
+  },
+  {
+   "shot": "S94",
+   "at": "Thay"
+  },
+  {
+   "shot": "S95",
+   "at": "Anh"
+  },
+  {
+   "shot": "S96",
+   "at": "Ai"
+  },
+  {
+   "shot": "S97",
+   "at": "Hiểu"
+  },
+  {
+   "shot": "S98",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S99",
+   "at": "Phần"
+  },
+  {
+   "shot": "S100",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S101",
+   "at": "Bạn#2"
+  },
+  {
+   "shot": "S102",
+   "at": "Nhắc"
+  },
+  {
+   "shot": "S103",
+   "at": "Kể"
+  },
+  {
+   "shot": "S104",
+   "at": "Đặt"
+  },
+  {
+   "shot": "S105",
+   "at": "Và"
+  },
+  {
+   "shot": "S106",
+   "at": "Hai"
+  },
+  {
+   "shot": "S107",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S108",
+   "at": "Nếu"
+  },
+  {
+   "shot": "S109",
+   "at": "Carnegie"
+  },
+  {
+   "shot": "S110",
+   "at": "Đắc"
+  },
+  {
+   "shot": "S111",
+   "at": "Nó"
+  },
+  {
+   "shot": "S112",
+   "at": "Và"
+  },
+  {
+   "shot": "S113",
+   "at": "Ngày"
+  },
+  {
+   "shot": "S114",
+   "at": "Không"
+  },
+  {
+   "shot": "S115",
+   "at": "Chỉ"
+  },
+  {
+   "shot": "S116",
+   "at": "Cuốn"
+  },
+  {
+   "shot": "S117",
+   "at": "đã"
+  },
+  {
+   "shot": "S118",
+   "at": "Nó"
+  },
+  {
+   "shot": "S119",
+   "at": "Phần"
+  },
+  {
+   "shot": "S120",
+   "at": "Nếu"
+  },
+  {
+   "shot": "CTA",
+   "at": "Link"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5
+  },
+  {
+   "at": "S20+6",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "S107",
+   "kind": "flash",
+   "color": "#FF5A4A",
+   "o": 0.3
+  },
+  {
+   "at": "CTA",
+   "kind": "flash",
+   "color": "#FFD43B",
+   "o": 0.5
+  }
+ ],
+ "tail": 2.0,
+ "captions": {
+  "maxWords": 5
+ },
+ "gaps": {
+  "word": 0.14,
+  "comma": 0.24,
+  "sentence": 0.42,
+  "question": 0.5
+ },
+ "chapters": [
+  {
+   "from": "S9",
+   "hook": [
+    "PHẦN 1: NỀN TẢNG",
+    "ỨNG XỬ VỚI NGƯỜI KHÁC"
+   ],
+   "accent": "PHẦN 1"
+  },
+  {
+   "from": "S17",
+   "hook": [
+    "CHUYỆN THẬT",
+    "LÁ THƯ KHÔNG GỬI"
+   ],
+   "accent": "CHUYỆN THẬT"
+  },
+  {
+   "from": "S23",
+   "hook": [
+    "PHẦN 1: NỀN TẢNG",
+    "ỨNG XỬ VỚI NGƯỜI KHÁC"
+   ],
+   "accent": "PHẦN 1"
+  },
+  {
+   "from": "S30",
+   "hook": [
+    "CHUYỆN THẬT",
+    "LƯƠNG 1 TRIỆU ĐÔ"
+   ],
+   "accent": "CHUYỆN THẬT"
+  },
+  {
+   "from": "S36",
+   "hook": [
+    "PHẦN 1: NỀN TẢNG",
+    "ỨNG XỬ VỚI NGƯỜI KHÁC"
+   ],
+   "accent": "PHẦN 1"
+  },
+  {
+   "from": "S41",
+   "hook": [
+    "PHẦN 2",
+    "ĐƯỢC NGƯỜI KHÁC QUÝ MẾN"
+   ],
+   "accent": "PHẦN 2"
+  },
+  {
+   "from": "S69",
+   "hook": [
+    "PHẦN 3",
+    "THUYẾT PHỤC NGƯỜI KHÁC"
+   ],
+   "accent": "PHẦN 3"
+  },
+  {
+   "from": "S98",
+   "hook": [
+    "PHẦN 4",
+    "GIÚP NGƯỜI KHÁC THAY ĐỔI"
+   ],
+   "accent": "PHẦN 4"
+  },
+  {
+   "from": "S107",
+   "hook": [
+    "CÁI BẪY",
+    "MÀ NHIỀU NGƯỜI MẮC"
+   ],
+   "accent": "CÁI BẪY"
+  },
+  {
+   "from": "S113",
+   "hook": [
+    "NGÀY 30",
+    "ĐIỀU GÌ ĐÃ THAY ĐỔI?"
+   ],
+   "accent": "NGÀY 30"
+  }
+ ],
+ "cover": {
+  "shot": "S7",
+  "t": 40,
+  "text": [
+   "30 NGÀY SỐNG THEO",
+   "ĐẮC NHÂN TÂM"
+  ]
+ }
+}
