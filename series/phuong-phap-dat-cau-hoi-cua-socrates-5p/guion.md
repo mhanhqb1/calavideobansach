@@ -1,15 +1,15 @@
 # 6 câu hỏi giúp bạn không bị dắt mũi (khoảng 5 phút, 9:16)
 
-Sách: Phương Pháp Đặt Câu Hỏi Của Socrates (Thinknetic). Video dạy 6 câu hỏi; sách chỉ xuất hiện ở phần 15 như công cụ luyện sâu.
+Sách: Phương Pháp Đặt Câu Hỏi Của Socrates (Thinknetic). Video dạy 6 câu hỏi; sách chỉ xuất hiện ở phần 15 như công cụ luyện sâu. Không có thẻ CTA, không có thẻ tên sách trên khung.
 
 ### Phần 01 mở: nỗi đau + lời hứa
-VOICE: Bạn có bao giờ tự hỏi: tại sao có những người rất khó bị dắt mũi? Đọc tin trên mạng, họ không tin ngay. Nghe ai thuyết phục, họ không gật vội. Tranh luận, họ không cần to tiếng, mà người kia vẫn phải nghĩ lại. Họ không giỏi trả lời hơn bạn. Họ chỉ giỏi hỏi hơn. Hôm nay tôi sẽ chia sẻ với bạn sáu câu hỏi như vậy, và cách luyện nó ở cuối video.
+VOICE: Bạn có bao giờ tự hỏi: tại sao có những người rất khó bị dắt mũi? Đọc tin trên mạng, họ không tin ngay. Nghe ai thuyết phục, họ không gật vội. Tranh luận, họ không cần to tiếng, mà người kia vẫn phải nghĩ lại. Họ không giỏi trả lời hơn bạn. Họ chỉ giỏi hỏi hơn. Hôm nay tôi sẽ chia sẻ với bạn sáu câu hỏi như vậy, và cách luyện nó ở cuối video. Riêng câu thứ sáu, tôi đoán phần lớn chúng ta đang hỏi sai mà không hề biết.
 
 ### Phần 02 Socrates
 VOICE: Hơn hai nghìn bốn trăm năm trước, ở thành Athens, có một ông già không viết một cuốn sách nào. Ông chỉ ra chợ, và hỏi. Hỏi đến khi người tự tin nhất cũng phải ngập ngừng. Người đó là Socrates. Và cách hỏi của ông, đến hôm nay, vẫn là một trong những công cụ tư duy mạnh nhất mà một người bình thường có thể học.
 
 ### Phần 03 hai kiểu người
-VOICE: Có hai kiểu người. Kiểu thứ nhất nghe gì tin nấy, ai nói to thì nghe theo người đó. Kiểu thứ hai nghe xong thì dừng lại một nhịp, và hỏi. Kiểu thứ nhất sống bằng câu trả lời của người khác. Kiểu thứ hai tự tìm ra câu trả lời của mình. Sáu câu hỏi dưới đây sẽ kéo bạn sang kiểu thứ hai.
+VOICE: Có hai kiểu người. Kiểu thứ nhất nghe gì tin nấy, ai nói to thì nghe theo người đó. Kiểu thứ hai nghe xong thì dừng lại một nhịp, và hỏi. Kiểu thứ nhất sống bằng câu trả lời của người khác. Kiểu thứ hai tự tìm ra câu trả lời của mình. Sáu câu hỏi dưới đây sẽ kéo bạn sang kiểu thứ hai. Nhưng trước khi xem tiếp, hãy thành thật một chút: bạn đang nghiêng về kiểu nào? Cứ giữ câu trả lời đó, cuối video mình sẽ hỏi lại.
 
 ### Phần 04 câu 1: ý bạn chính xác là gì
 VOICE: Câu hỏi thứ nhất: ý bạn chính xác là gì? Sếp nói: em làm lại cho chuyên nghiệp hơn. Phần lớn mọi người về đổi phông chữ, đổi màu, rồi lại bị trả về. Người biết hỏi sẽ nói: chuyên nghiệp hơn là anh muốn em sửa chỗ nào ạ? Số liệu, bố cục, hay cách trình bày? Một câu hỏi thôi, đỡ ba lần làm lại. Rất nhiều cuộc cãi nhau, thật ra là hai người đang hiểu một chữ theo hai nghĩa.
@@ -47,8 +47,8 @@ VOICE: Thứ ba, hỏi trước khi cãi. Lần tới, khi có người nói đi
 ### Phần 15 cuốn sách (công cụ)
 VOICE: Sáu câu hỏi tôi vừa nói mới chỉ là phần nổi. Nếu bạn muốn luyện kỹ hơn, cuốn Phương Pháp Đặt Câu Hỏi Của Socrates có đủ các dạng câu hỏi, cách tìm ra những giả định ẩn, và rất nhiều ví dụ trong công việc lẫn cuộc sống, để bạn tự tập mỗi ngày.
 
-### Phần 16 CTA + đúc kết
-VOICE: Link sách mình để ngay bên dưới video. Và nhớ nhé: người ta không khôn lên nhờ có nhiều câu trả lời. Người ta khôn lên, nhờ biết hỏi đúng câu.
+### Phần 16 hỏi lại người xem + đúc kết
+VOICE: Giờ thì quay lại câu hỏi lúc nãy: bạn đang là kiểu một, hay kiểu hai? Và lần gần nhất bạn tin chắc một điều, rồi mới phát hiện là sai, đó là chuyện gì? Kể cho mình nghe ở phần bình luận nhé. Nếu bạn có một người bạn sắp phải ra một quyết định lớn, có lẽ video này dành cho họ. Và nhớ nhé: người ta không khôn lên nhờ có nhiều câu trả lời. Người ta khôn lên, nhờ biết hỏi đúng câu.
 
 ## Cảnh (theo thứ tự)
 
@@ -62,6 +62,8 @@ VOICE: Link sách mình để ngay bên dưới video. Và nhớ nhé: người 
 - S7: chỉ giỏi hỏi hơn
 - S8: tựa: 6 câu hỏi
 - S9: cách luyện ở cuối video
+- S116: câu 6 phần lớn đang hỏi sai
+- S123: hỏi sai mà không biết
 - S10: Athens, hơn 2400 năm
 - S11: không viết cuốn sách nào
 - S12: ra chợ và hỏi
@@ -76,6 +78,8 @@ VOICE: Link sách mình để ngay bên dưới video. Và nhớ nhé: người 
 - S20: kiểu 1
 - S21: kiểu 2
 - S22: sáu câu hỏi
+- S117: bạn đang là kiểu nào
+- S118: cuối video hỏi lại
 - S23: CÂU 1
 - S24: sếp: chuyên nghiệp hơn
 - S25: đổi phông đổi màu
@@ -164,4 +168,9 @@ VOICE: Link sách mình để ngay bên dưới video. Và nhớ nhé: người 
 - S107: luyện kỹ hơn
 - S108: cầm sách
 - S112: tự tập mỗi ngày
-- CTA: link sách bên dưới
+- S119: kiểu một hay kiểu hai
+- S120: lần gần nhất tin sai
+- S124: đó là chuyện gì, kể ở bình luận
+- S122: người bạn sắp quyết định lớn
+- S114: không khôn nhờ câu trả lời
+- S115: khôn nhờ hỏi đúng câu

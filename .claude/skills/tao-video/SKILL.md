@@ -72,7 +72,21 @@ kit.tsx để biết các khuôn cảnh: `close`, `room`, `street`, `rule`, `quo
 - Tập ngắn (dưới 1 phút) kiểu "Bản lĩnh giả điếc": một ý duy nhất, mở "Ở đời có một loại bản lĩnh rất cao gọi
   là...", 5-8 câu đối xứng sắc, một ẩn dụ, kết bằng câu đúc kết; tên sách chỉ ở thẻ CTA. Không dùng công thức
   "Điều gì xảy ra nếu..." của README nữa trừ khi người dùng yêu cầu.
-- CTA cuối nhắc xem link hoặc giỏ hàng bên dưới. Không ghi giá, giảm giá, số đã bán của shop. Giữ
+- **Kéo bình luận và chia sẻ** (mẫu: tập `phuong-phap-dat-cau-hoi-cua-socrates-5p`):
+  - Đầu video, sau lời hứa: một câu gợi tò mò giữ người xem tới cuối ("Riêng câu thứ sáu, phần lớn chúng ta đang
+    hỏi sai mà không biết").
+  - Giữa video: một câu hỏi tự soi để người xem tự xếp mình vào một phía ("Bạn đang nghiêng về kiểu nào? Cứ giữ
+    câu trả lời đó, cuối video mình hỏi lại").
+  - Cuối video, trước câu đúc kết: hỏi lại câu đó, rồi xin một **câu chuyện thật** ("Lần gần nhất bạn tin chắc một
+    điều rồi mới biết là sai, đó là chuyện gì? Kể cho mình nghe ở bình luận"). Gợi chia sẻ bằng cách nêu đúng người
+    cần xem ("Nếu bạn có một người bạn sắp ra quyết định lớn, có lẽ video này dành cho họ").
+  - Có ít nhất một tình huống dễ gây tranh luận (hai bên đều có lý: mẹ gọi nhắc áo ấm, số 6 hay số 9) để người xem
+    đứng về một phía.
+  - Không dùng mồi tương tác kiểu "bình luận số 1", "gõ CÓ", "tag 3 người bạn", "share để nhận...": Facebook và
+    TikTok hạ phân phối các bài này. Câu hỏi phải là câu hỏi thật, về trải nghiệm hay ý kiến của người xem.
+  - Gói đăng bài: mô tả mở bằng câu hỏi, bình luận ghim là một câu hỏi khác (người viết tự trả lời trước một câu ngắn
+    để làm mẫu), và vài câu trả lời mẫu cho các bình luận hay gặp.
+- CTA cuối (nếu người dùng muốn có) nhắc xem link hoặc giỏ hàng bên dưới. Không ghi giá, giảm giá, số đã bán của shop. Giữ
   `book.disclosure` mặc định.
 - Tập dài thêm `captions: {"maxWords": 5}`, `gaps` như tập 5p, `chapters` (đổi hook theo từng phần, `from` là
   id cảnh), `cover: {"shot", "t", "text"}`, `tail: 2.0`.

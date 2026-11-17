@@ -28,7 +28,7 @@
  "script": [
   {
    "beat": "01 mở: nỗi đau + lời hứa",
-   "text": "Bạn có bao giờ tự hỏi: tại sao có những người rất khó bị dắt mũi? Đọc tin trên mạng, họ không tin ngay. Nghe ai thuyết phục, họ không gật vội. Tranh luận, họ không cần to tiếng, mà người kia vẫn phải nghĩ lại. Họ không giỏi trả lời hơn bạn. Họ chỉ giỏi hỏi hơn. Hôm nay tôi sẽ chia sẻ với bạn sáu câu hỏi như vậy, và cách luyện nó ở cuối video."
+   "text": "Bạn có bao giờ tự hỏi: tại sao có những người rất khó bị dắt mũi? Đọc tin trên mạng, họ không tin ngay. Nghe ai thuyết phục, họ không gật vội. Tranh luận, họ không cần to tiếng, mà người kia vẫn phải nghĩ lại. Họ không giỏi trả lời hơn bạn. Họ chỉ giỏi hỏi hơn. Hôm nay tôi sẽ chia sẻ với bạn sáu câu hỏi như vậy, và cách luyện nó ở cuối video. Riêng câu thứ sáu, tôi đoán phần lớn chúng ta đang hỏi sai mà không hề biết."
   },
   {
    "beat": "02 Socrates",
@@ -36,7 +36,7 @@
   },
   {
    "beat": "03 hai kiểu người",
-   "text": "Có hai kiểu người. Kiểu thứ nhất nghe gì tin nấy, ai nói to thì nghe theo người đó. Kiểu thứ hai nghe xong thì dừng lại một nhịp, và hỏi. Kiểu thứ nhất sống bằng câu trả lời của người khác. Kiểu thứ hai tự tìm ra câu trả lời của mình. Sáu câu hỏi dưới đây sẽ kéo bạn sang kiểu thứ hai."
+   "text": "Có hai kiểu người. Kiểu thứ nhất nghe gì tin nấy, ai nói to thì nghe theo người đó. Kiểu thứ hai nghe xong thì dừng lại một nhịp, và hỏi. Kiểu thứ nhất sống bằng câu trả lời của người khác. Kiểu thứ hai tự tìm ra câu trả lời của mình. Sáu câu hỏi dưới đây sẽ kéo bạn sang kiểu thứ hai. Nhưng trước khi xem tiếp, hãy thành thật một chút: bạn đang nghiêng về kiểu nào? Cứ giữ câu trả lời đó, cuối video mình sẽ hỏi lại."
   },
   {
    "beat": "04 câu 1: ý bạn chính xác là gì",
@@ -87,8 +87,8 @@
    "text": "Sáu câu hỏi tôi vừa nói mới chỉ là phần nổi. Nếu bạn muốn luyện kỹ hơn, cuốn Phương Pháp Đặt Câu Hỏi Của Socrates có đủ các dạng câu hỏi, cách tìm ra những giả định ẩn, và rất nhiều ví dụ trong công việc lẫn cuộc sống, để bạn tự tập mỗi ngày."
   },
   {
-   "beat": "16 đúc kết",
-   "text": "Và nhớ nhé: người ta không khôn lên nhờ có nhiều câu trả lời. Người ta khôn lên, nhờ biết hỏi đúng câu."
+   "beat": "16 hỏi lại người xem + đúc kết",
+   "text": "Giờ thì quay lại câu hỏi lúc nãy: bạn đang là kiểu một, hay kiểu hai? Và lần gần nhất bạn tin chắc một điều, rồi mới phát hiện là sai, đó là chuyện gì? Kể cho mình nghe ở phần bình luận nhé. Nếu bạn có một người bạn sắp phải ra một quyết định lớn, có lẽ video này dành cho họ. Và nhớ nhé: người ta không khôn lên nhờ có nhiều câu trả lời. Người ta khôn lên, nhờ biết hỏi đúng câu."
   }
  ],
  "science": [
@@ -226,6 +226,28 @@
    "set": "",
    "key": 18,
    "note": "cách luyện ở cuối video",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S116",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "câu 6 phần lớn đang hỏi sai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S123",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "hỏi sai mà không biết",
    "frame": {
     "x": 960,
     "y": 560
@@ -383,6 +405,28 @@
    "frame": {
     "x": 960,
     "y": 540
+   }
+  },
+  {
+   "id": "S117",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bạn đang là kiểu nào",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S118",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cuối video hỏi lại",
+   "frame": {
+    "x": 960,
+    "y": 560
    }
   },
   {
@@ -1354,14 +1398,47 @@
    }
   },
   {
-   "id": "S113",
+   "id": "S119",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "kiểu một hay kiểu hai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S120",
    "size": "close-up",
    "set": "",
    "key": 18,
-   "note": "và nhớ nhé",
+   "note": "lần gần nhất tin sai",
    "frame": {
     "x": 960,
     "y": 560
+   }
+  },
+  {
+   "id": "S124",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "đó là chuyện gì, kể ở bình luận",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S122",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "người bạn sắp quyết định lớn",
+   "frame": {
+    "x": 960,
+    "y": 540
    }
   },
   {
@@ -1429,6 +1506,14 @@
    "at": "cách"
   },
   {
+   "shot": "S116",
+   "at": "Riêng"
+  },
+  {
+   "shot": "S123",
+   "at": "phần"
+  },
+  {
    "shot": "S10",
    "at": "Hơn"
   },
@@ -1483,6 +1568,14 @@
   {
    "shot": "S22",
    "at": "Sáu"
+  },
+  {
+   "shot": "S117",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S118",
+   "at": "Cứ"
   },
   {
    "shot": "S23",
@@ -1837,16 +1930,28 @@
    "at": "và"
   },
   {
-   "shot": "S113",
+   "shot": "S119",
+   "at": "Giờ"
+  },
+  {
+   "shot": "S120",
    "at": "Và"
   },
   {
+   "shot": "S124",
+   "at": "đó"
+  },
+  {
+   "shot": "S122",
+   "at": "Nếu"
+  },
+  {
    "shot": "S114",
-   "at": "người"
+   "at": "Và"
   },
   {
    "shot": "S115",
-   "at": "Người"
+   "at": "Người#2"
   }
  ],
  "fx": [
@@ -1952,6 +2057,22 @@
   },
   {
    "from": "S106",
+   "hook": [
+    "6 CÂU HỎI GIÚP BẠN",
+    "KHÔNG BỊ DẮT MŨI"
+   ],
+   "accent": "6 CÂU HỎI"
+  },
+  {
+   "from": "S119",
+   "hook": [
+    "CÒN BẠN THÌ SAO?",
+    "KỂ MÌNH NGHE NHÉ"
+   ],
+   "accent": "CÒN BẠN"
+  },
+  {
+   "from": "S114",
    "hook": [
     "6 CÂU HỎI GIÚP BẠN",
     "KHÔNG BỊ DẮT MŨI"

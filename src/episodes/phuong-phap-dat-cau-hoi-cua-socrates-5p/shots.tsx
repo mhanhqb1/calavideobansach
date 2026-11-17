@@ -482,3 +482,21 @@ export const S112 = sixQ(0, 'Tự tập mỗi ngày');
 export const S113 = close({ look: HERO, set: 'rooftop', faces: [[0, 'neutral'], [12, 'smug']], yaw: 0.15, push: 0.08 });
 export const S114 = title({ lines: ['Không khôn nhờ', 'câu trả lời'], accent: 'CÂU TRẢ LỜI' });
 export const S115 = title({ lines: ['Mà khôn nhờ', 'hỏi đúng câu'], accent: 'HỎI ĐÚNG CÂU' });
+
+// ---- kéo bình luận: tò mò ở đầu, câu hỏi tự soi ở giữa, hỏi lại ở cuối ----
+export const S116 = BigQ('CÂU THỨ 6');
+export const S117 = close({ look: HERO, set: 'office', faces: [[0, 'neutral'], [12, 'smug']], yaw: 0.25, tilt: [[0, 0], [16, 6]], extra: (t) => <Pop x={960} y={190} t={t - 4} text="BẠN LÀ KIỂU NÀO?" color={YELLOW} size={60} /> });
+export const S118 = close({ look: HERO, set: 'office', faces: [[0, 'smug']], yaw: -0.2, extra: (t) => <Pop x={960} y={190} t={t - 4} text="CUỐI VIDEO HỎI LẠI NHÉ" size={46} /> });
+const S119r = room({ set: 'office', cam: [960, 560, 1.12, 1.18], actors: [{ look: KHO, u: 0.35, w: 0.62, yaw: 0.3, faces: [[0, 'happy']], does: 'nod' }, { look: MO, u: 0.68, w: 0.62, yaw: -0.3, faces: [[0, 'cool']], does: 'think', at: 8 }] });
+export const S119: React.FC<ShotProps> = (p) => (
+  <g>
+    <S119r {...p} />
+    <Pop x={700} y={200} t={p.t - 4} text="KIỂU 1?" size={60} />
+    <Pop x={1220} y={200} t={p.t - 12} text="KIỂU 2?" color={YELLOW} size={60} />
+  </g>
+);
+export const S120 = close({ look: HERO, set: 'bedroom', faces: [[0, 'neutral'], [16, 'oops']], yaw: 0.25, tilt: [[0, 0], [20, 8]], extra: (t) => <Pop x={960} y={190} t={t - 6} text="LẦN GẦN NHẤT BẠN TIN SAI?" size={44} color={YELLOW} /> });
+const S121 = close({ look: HERO, set: 'study', faces: [[0, 'happy']], yaw: -0.2, extra: (t) => <>{phoneIn('BÌNH LUẬN')(t)}<Pop x={900} y={190} t={t - 4} text="KỂ MÌNH NGHE NHÉ" color={YELLOW} size={56} /></> });
+export const S122 = street({ mopeds: [540], actors: [{ look: HERO, x: 800, yaw: 0.5, faces: [[0, 'happy']], does: 'talk' }, { look: MO, x: 1160, yaw: -0.4, faces: [[0, 'worried'], [18, 'happy']], does: 'think', at: 6 }], extra: (t) => <Pop x={1120} y={300} t={t - 10} text="SẮP QUYẾT ĐỊNH LỚN?" size={46} /> });
+export const S123 = close({ look: MO, set: 'street', faces: [[0, 'neutral'], [14, 'oops']], yaw: 0.25, extra: (t) => <Pop x={960} y={190} t={t - 6} text="HỎI SAI MÀ KHÔNG BIẾT" size={50} color={RED} /> });
+export const S124 = close({ look: HERO, set: 'study', faces: [[0, 'oops'], [30, 'happy']], yaw: -0.2, extra: (t) => <>{phoneIn('BÌNH LUẬN')(t - 28)}<Pop x={960} y={190} t={t - 2} hold={30} text="ĐÓ LÀ CHUYỆN GÌ?" color={YELLOW} size={56} /><Pop x={900} y={190} t={t - 32} text="KỂ MÌNH NGHE NHÉ" color={YELLOW} size={56} /></> });
