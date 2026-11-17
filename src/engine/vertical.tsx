@@ -41,6 +41,8 @@ export type VerticalJson = {
   /** For long videos: the hook changes from a shot on, e.g. [{"from": "S12", "hook": ["PHẦN 2", "ĐƯỢC NGƯỜI KHÁC QUÝ"], "accent": "PHẦN 2"}]. */
   chapters?: { from: string; hook: string[]; accent?: string }[];
   theme?: { bg?: string; bg2?: string; accent?: string };
+  /** false hides the small book chip under every shot (default: shown). */
+  bookChip?: boolean;
 };
 
 const framingOf = (ep: VerticalJson, id: string): Framing => (ep.shots.find((s) => s.id === id)?.frame as Framing) ?? {};
@@ -239,7 +241,7 @@ export const VerticalEpisode: React.FC<VerticalProps> = (p) => {
     <AbsoluteFill style={{ background: background(ep) }}>
       <ShotView p={p} id={seg.shot} t={clockAt(seg, f)} len={info?.len ?? seg.b - seg.a} f={f} look={run ? { def, lv, prog: clamp((f - run.a) / (run.b - run.a)), n: run.n } : undefined} dx={x + jitter} dy={y} />
       {!full ? (() => { const h = hookAt(ep, tl, f); return <Hook f={f - h.from} lines={h.lines} accent={h.accent} />; })() : null}
-      {!full && ep.book ? <BookChip f={f} b={ep.book} /> : null}
+      {!full && ep.book && ep.bookChip !== false ? <BookChip f={f} b={ep.book} /> : null}
       {!full && cap ? <Captions f={f} fps={tl.fps} chunks={chunks} y={cap.y} size={cap.size} upper={cap.upper} color={cap.color} /> : null}
       {flash ? <AbsoluteFill style={{ backgroundColor: flash.color, opacity: flash.o }} /> : null}
       {A.voice ? <Audio src={staticFile(A.voice)} volume={A.voiceVol ?? 1} /> : null}
@@ -258,7 +260,7 @@ export const VerticalBoard: React.FC<VerticalProps> = (p) => {
     <AbsoluteFill style={{ background: background(p.episode) }}>
       <ShotView p={p} id={info.id} t={info.key} len={info.len} f={info.first + info.key} />
       {!full ? (() => { const h = hookAt(p.episode, p.timeline, info.first); return <Hook f={60} lines={h.lines} accent={h.accent} />; })() : null}
-      {!full && p.episode.book ? <BookChip f={60} b={p.episode.book} /> : null}
+      {!full && p.episode.book && p.episode.bookChip !== false ? <BookChip f={60} b={p.episode.book} /> : null}
     </AbsoluteFill>
   );
 };

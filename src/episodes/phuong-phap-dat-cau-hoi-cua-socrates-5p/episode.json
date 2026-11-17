@@ -1,0 +1,1971 @@
+{
+ "id": "PhuongPhapDatCauHoiCuaSocrates5p",
+ "slug": "phuong-phap-dat-cau-hoi-cua-socrates-5p",
+ "format": "vertical",
+ "topic": "6 câu hỏi của Socrates giúp bạn không bị dắt mũi",
+ "title": [
+  "6 CÂU HỎI GIÚP BẠN",
+  "KHÔNG BỊ DẮT MŨI"
+ ],
+ "hook": [
+  "6 CÂU HỎI GIÚP BẠN",
+  "KHÔNG BỊ DẮT MŨI"
+ ],
+ "accent": "6 CÂU HỎI",
+ "book": {
+  "title": "Phương Pháp Đặt Câu Hỏi Của Socrates",
+  "author": "Thinknetic",
+  "_cover": "Đặt ảnh bìa ở public/phuong-phap-dat-cau-hoi-cua-socrates-5p/cover.jpg rồi đổi khóa \"_cover\" thành \"cover\": \"phuong-phap-dat-cau-hoi-cua-socrates-5p/cover.jpg\"",
+  "badge": "Tư duy phản biện",
+  "platform": "tiktok",
+  "color": "#D8C7A0"
+ },
+ "tts": "google",
+ "voice": {
+  "google": "vi-VN-Chirp3-HD-Sadaltager",
+  "speed": 1.05
+ },
+ "script": [
+  {
+   "beat": "01 mở: nỗi đau + lời hứa",
+   "text": "Bạn có bao giờ tự hỏi: tại sao có những người rất khó bị dắt mũi? Đọc tin trên mạng, họ không tin ngay. Nghe ai thuyết phục, họ không gật vội. Tranh luận, họ không cần to tiếng, mà người kia vẫn phải nghĩ lại. Họ không giỏi trả lời hơn bạn. Họ chỉ giỏi hỏi hơn. Hôm nay tôi sẽ chia sẻ với bạn sáu câu hỏi như vậy, và cách luyện nó ở cuối video."
+  },
+  {
+   "beat": "02 Socrates",
+   "text": "Hơn hai nghìn bốn trăm năm trước, ở thành Athens, có một ông già không viết một cuốn sách nào. Ông chỉ ra chợ, và hỏi. Hỏi đến khi người tự tin nhất cũng phải ngập ngừng. Người đó là Socrates. Và cách hỏi của ông, đến hôm nay, vẫn là một trong những công cụ tư duy mạnh nhất mà một người bình thường có thể học."
+  },
+  {
+   "beat": "03 hai kiểu người",
+   "text": "Có hai kiểu người. Kiểu thứ nhất nghe gì tin nấy, ai nói to thì nghe theo người đó. Kiểu thứ hai nghe xong thì dừng lại một nhịp, và hỏi. Kiểu thứ nhất sống bằng câu trả lời của người khác. Kiểu thứ hai tự tìm ra câu trả lời của mình. Sáu câu hỏi dưới đây sẽ kéo bạn sang kiểu thứ hai."
+  },
+  {
+   "beat": "04 câu 1: ý bạn chính xác là gì",
+   "text": "Câu hỏi thứ nhất: ý bạn chính xác là gì? Sếp nói: em làm lại cho chuyên nghiệp hơn. Phần lớn mọi người về đổi phông chữ, đổi màu, rồi lại bị trả về. Người biết hỏi sẽ nói: chuyên nghiệp hơn là anh muốn em sửa chỗ nào ạ? Số liệu, bố cục, hay cách trình bày? Một câu hỏi thôi, đỡ ba lần làm lại. Rất nhiều cuộc cãi nhau, thật ra là hai người đang hiểu một chữ theo hai nghĩa."
+  },
+  {
+   "beat": "05 câu 2: mình đang mặc định điều gì",
+   "text": "Câu hỏi thứ hai: mình đang mặc định điều gì? Bạn nhắn tin cho bạn thân từ sáng, đến tối vẫn chưa thấy trả lời. Đầu bạn lập tức viết ra cả một câu chuyện: nó giận mình, nó coi thường mình. Hãy hỏi: mình đang mặc định rằng không trả lời nghĩa là giận. Điều đó có chắc không? Hoá ra hôm đó, nó chỉ quên sạc điện thoại. Giả định giống phần chìm của tảng băng. Bạn không nhìn thấy nó, nhưng nó lái cả con tàu."
+  },
+  {
+   "beat": "06 câu 3: dựa vào đâu",
+   "text": "Câu hỏi thứ ba: dựa vào đâu? Một bài đăng nói: uống nước chanh lúc đói chữa được mọi bệnh, kèm hàng nghìn lượt chia sẻ. Nhưng lượt chia sẻ không phải là bằng chứng. Hãy hỏi: ai nói điều này? Có nghiên cứu nào không? Và ai được lợi nếu mình tin? Người hay bị dắt mũi không phải là người kém thông minh. Đó là người quên hỏi câu: dựa vào đâu."
+  },
+  {
+   "beat": "07 câu 4: người kia nhìn thấy gì",
+   "text": "Câu hỏi thứ tư: nếu đứng ở chỗ người kia, mình sẽ thấy gì? Mẹ gọi điện lần thứ ba trong ngày, chỉ để nhắc bạn mặc áo ấm. Bạn bực: con lớn rồi mà. Nhưng đứng ở chỗ mẹ, bạn sẽ thấy một người vừa xem tin bão, và đứa con thì đang ở xa. Số sáu, nhìn từ phía bên kia, là số chín. Cả hai đều không sai. Họ chỉ đứng ở hai phía."
+  },
+  {
+   "beat": "08 câu 5: rồi sau đó thì sao",
+   "text": "Câu hỏi thứ năm: nếu làm vậy, rồi sau đó thì sao? Bị sếp mắng trước cả phòng, bạn muốn viết đơn nghỉ việc ngay tối nay. Hãy hỏi tiếp: nghỉ rồi thì sao? Tháng sau tiền nhà lấy đâu ra? Đi phỏng vấn, mình sẽ kể lý do gì? Mỗi quyết định là một quân domino. Người khôn không phải là người không biết giận. Họ chỉ nhìn thấy quân domino thứ ba, trước khi đẩy quân thứ nhất."
+  },
+  {
+   "beat": "09 câu 6: mình có đang hỏi đúng câu không",
+   "text": "Và câu hỏi thứ sáu, khó nhất: mình có đang hỏi đúng câu không? Rất nhiều người hỏi: làm sao để kiếm thêm tiền? Họ nhận thêm việc, làm đến khuya, mà cuối tháng vẫn hết sạch. Câu hỏi đúng, có khi lại là: tiền của mình đang đi đâu? Hỏi sai câu, bạn chăm chỉ giải một bài toán không có thật. Giống như cầm chìa khoá đúng, nhưng tra vào sai ổ."
+  },
+  {
+   "beat": "10 cú chuyển: cái bẫy",
+   "text": "Nhưng cẩn thận. Sáu câu hỏi này, dùng sai thì thành tra hỏi. Nếu bạn hỏi để bắt bẻ, để chứng minh người kia sai, để mình thắng, thì người ta sẽ đóng cửa lại ngay. Socrates hỏi không phải để thắng. Ông hỏi để cả hai cùng hiểu rõ hơn. Khác nhau chỉ ở giọng nói: một bên là thẩm vấn, một bên là tò mò."
+  },
+  {
+   "beat": "11 trích Socrates",
+   "text": "Có một câu người ta gắn với Socrates suốt hai mươi bốn thế kỷ: tôi chỉ biết một điều, là tôi không biết gì cả. Nghe thì khiêm tốn, nhưng đó là vũ khí. Vì chỉ khi thừa nhận mình chưa biết, bạn mới bắt đầu hỏi. Còn người nghĩ mình biết hết, sẽ không bao giờ hỏi thêm một câu nào."
+  },
+  {
+   "beat": "12 cách luyện 1: luật ba giây",
+   "text": "Vậy luyện thế nào? Thứ nhất, luật ba giây. Trước khi tin một tin, trước khi phản bác ai, trước khi quyết định điều gì lớn, hãy dừng lại ba giây, và hỏi đúng một câu: dựa vào đâu? Chỉ một câu thôi. Làm đủ lâu, nó sẽ thành phản xạ."
+  },
+  {
+   "beat": "13 cách luyện 2: mười phút mỗi tối",
+   "text": "Thứ hai, mười phút mỗi tối. Lấy giấy ra, viết một điều bạn đang tin chắc. Ví dụ: mình không hợp với công việc này. Rồi hỏi nó đủ sáu câu. Ý mình chính xác là gì? Mình đang mặc định gì? Dựa vào đâu? Người khác sẽ nhìn ra sao? Rồi sau đó thì sao? Và mình có đang hỏi đúng câu không? Nhiều điều bạn tin chắc, sẽ lung lay ngay ở câu thứ ba."
+  },
+  {
+   "beat": "14 cách luyện 3: hỏi trước khi cãi",
+   "text": "Thứ ba, hỏi trước khi cãi. Lần tới, khi có người nói điều bạn không đồng ý, đừng phản bác ngay. Hãy hỏi: sao bạn lại nghĩ vậy? Bạn sẽ ngạc nhiên. Nhiều lần, bạn hiểu ra họ có lý. Những lần khác, chính họ tự nhận ra chỗ hổng trong lời mình, mà bạn không cần nói thêm câu nào."
+  },
+  {
+   "beat": "15 cuốn sách (công cụ)",
+   "text": "Sáu câu hỏi tôi vừa nói mới chỉ là phần nổi. Nếu bạn muốn luyện kỹ hơn, cuốn Phương Pháp Đặt Câu Hỏi Của Socrates có đủ các dạng câu hỏi, cách tìm ra những giả định ẩn, và rất nhiều ví dụ trong công việc lẫn cuộc sống, để bạn tự tập mỗi ngày."
+  },
+  {
+   "beat": "16 đúc kết",
+   "text": "Và nhớ nhé: người ta không khôn lên nhờ có nhiều câu trả lời. Người ta khôn lên, nhờ biết hỏi đúng câu."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Socrates sống ở Athens thế kỷ 5 TCN (khoảng 470-399 TCN), không để lại tác phẩm viết nào; hơn 2.400 năm trước.",
+   "working": "2026 + 399 = 2425 năm kể từ khi ông mất, nên \"hơn hai nghìn bốn trăm năm trước\", \"hai mươi bốn thế kỷ\".",
+   "source": "Stanford Encyclopedia of Philosophy, \"Socrates\"; Wikipedia: Socrates"
+  },
+  {
+   "claim": "Sáu dạng câu hỏi Socrates: làm rõ, giả định, lý do/bằng chứng, góc nhìn, hệ quả, câu hỏi về chính câu hỏi.",
+   "working": "Phân loại phổ biến của Richard W. Paul (Foundation for Critical Thinking); sách Thinknetic dùng khung Paul-Elder để định hướng việc đặt câu hỏi.",
+   "source": "Paul & Elder, The Thinker's Guide to the Art of Socratic Questioning; tóm tắt Shortform/getAbstract về The Socratic Way of Questioning (Thinknetic, 2021)"
+  },
+  {
+   "claim": "\"Tôi chỉ biết một điều, là tôi không biết gì cả\" là câu người ta gắn với Socrates.",
+   "working": "Lời đọc nói \"người ta gắn với Socrates\": câu này là diễn ý phổ biến từ Apology của Plato (21d), không phải nguyên văn.",
+   "source": "Plato, Apology 21d; Wikipedia: I know that I know nothing"
+  },
+  {
+   "claim": "Sách nhấn mạnh hỏi để hiểu, không để thắng; có kỹ thuật tìm giả định ẩn và nhiều ví dụ thực tế.",
+   "working": "Theo tóm tắt sách và nhận xét độc giả.",
+   "source": "Shortform summary; Goodreads reviews: The Socratic Way of Questioning"
+  }
+ ],
+ "cast": [
+  "pipWork",
+  "mo",
+  "suit",
+  "jefa",
+  "mom"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bạn, câu hỏi mở",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "người khó bị dắt mũi",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "tin sốc trên điện thoại, không tin ngay",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "bị chốt sale, không gật vội",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "tranh luận bằng câu hỏi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S109",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "người kia phải nghĩ lại",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "không giỏi trả lời hơn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "chỉ giỏi hỏi hơn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S8",
+   "size": "title",
+   "set": "",
+   "key": 30,
+   "note": "tựa: 6 câu hỏi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cách luyện ở cuối video",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S10",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "Athens, hơn 2400 năm",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "không viết cuốn sách nào",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S12",
+   "size": "street",
+   "set": "",
+   "key": 30,
+   "note": "ra chợ và hỏi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "người tự tin ngập ngừng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S14",
+   "size": "name card",
+   "set": "",
+   "key": 30,
+   "note": "Socrates",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S15",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "công cụ tư duy",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "người bình thường học được",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "hai kiểu người",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S18",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "nghe gì tin nấy",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "dừng lại một nhịp",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S110",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "và hỏi",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "kiểu 1",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "kiểu 2",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "sáu câu hỏi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S23",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "CÂU 1",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S24",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "sếp: chuyên nghiệp hơn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S25",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "đổi phông đổi màu",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S26",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "bị trả về",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S27",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "hỏi lại cụ thể",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S28",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "số liệu, bố cục, trình bày",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S29",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "đỡ ba lần làm lại",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S30",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "một chữ hai nghĩa",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S31",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "CÂU 2",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S32",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "nhắn tin từ sáng",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S33",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "tối chưa trả lời",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S34",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "nó giận mình",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S35",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "coi thường mình",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S36",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "giả định",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S37",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "chắc không",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S38",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "quên sạc điện thoại",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S39",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "tảng băng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S40",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "phần chìm lái con tàu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S41",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "CÂU 3",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S42",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "bài đăng nước chanh",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S43",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "lượt chia sẻ tăng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S44",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "không phải bằng chứng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S45",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "ai nói",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S46",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "nghiên cứu nào",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S47",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "ai được lợi",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S48",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "không kém thông minh",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S49",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "quên hỏi dựa vào đâu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S50",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "CÂU 4",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S51",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "mẹ gọi nhắc áo ấm",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S52",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "bạn bực",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S53",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "mẹ xem tin bão",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S54",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "con ở xa",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S55",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "6 hay 9",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S56",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "cả hai không sai",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S57",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "CÂU 5",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S58",
+   "size": "group",
+   "set": "",
+   "key": 30,
+   "note": "bị sếp mắng trước cả phòng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S59",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "muốn nghỉ việc",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S60",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "nghỉ rồi thì sao",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S61",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "tiền nhà",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S62",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "phỏng vấn hỏi lý do",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S63",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "domino",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S64",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "quân thứ 3",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S65",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "người khôn",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S66",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "CÂU 6",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S67",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "làm sao kiếm thêm tiền",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S68",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "làm đến khuya",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S69",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cuối tháng hết sạch",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S70",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "tiền đi đâu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S71",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "bài toán không có thật",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S72",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "chìa đúng sai ổ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S73",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cẩn thận",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S74",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "thành tra hỏi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S75",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "hỏi để bắt bẻ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S76",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "đóng cửa",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S77",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "không để thắng",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S78",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "để cùng hiểu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S79",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "giọng nói",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S80",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "thẩm vấn / tò mò",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S81",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "24 thế kỷ",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S82",
+   "size": "quote",
+   "set": "",
+   "key": 30,
+   "note": "tôi không biết gì",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S83",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "khiêm tốn",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S84",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "thừa nhận chưa biết",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S85",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "người biết hết",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S86",
+   "size": "title",
+   "set": "",
+   "key": 30,
+   "note": "luyện thế nào",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S87",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "cách 1 luật ba giây",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S88",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "tin sốc",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S89",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "đếm 3 giây",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S90",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "dựa vào đâu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S91",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "thành phản xạ",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S92",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "cách 2 mười phút",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S93",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "lấy giấy ra",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S94",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "điều tin chắc",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S95",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "hỏi đủ sáu câu",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S111",
+   "size": "list",
+   "set": "",
+   "key": 30,
+   "note": "câu 1-2",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S96",
+   "size": "list",
+   "set": "",
+   "key": 30,
+   "note": "câu 3-4",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S97",
+   "size": "list",
+   "set": "",
+   "key": 30,
+   "note": "câu 5-6",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S98",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "lung lay",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S99",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "cách 3 hỏi trước khi cãi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S100",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "người nói điều bạn không đồng ý",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S101",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "đừng phản bác",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S102",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "sao bạn nghĩ vậy",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S103",
+   "size": "two-shot",
+   "set": "",
+   "key": 30,
+   "note": "họ có lý",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S104",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "họ tự nhận ra",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S105",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "không cần nói",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S106",
+   "size": "drawing",
+   "set": "",
+   "key": 30,
+   "note": "phần nổi",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S107",
+   "size": "book",
+   "set": "",
+   "key": 30,
+   "note": "luyện kỹ hơn",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S108",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "cầm sách",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S112",
+   "size": "card",
+   "set": "",
+   "key": 30,
+   "note": "tự tập mỗi ngày",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S113",
+   "size": "close-up",
+   "set": "",
+   "key": 18,
+   "note": "và nhớ nhé",
+   "frame": {
+    "x": 960,
+    "y": 560
+   }
+  },
+  {
+   "id": "S114",
+   "size": "title",
+   "set": "",
+   "key": 30,
+   "note": "không khôn nhờ câu trả lời",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  },
+  {
+   "id": "S115",
+   "size": "title",
+   "set": "",
+   "key": 30,
+   "note": "khôn nhờ hỏi đúng câu",
+   "frame": {
+    "x": 960,
+    "y": 540
+   }
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "tại"
+  },
+  {
+   "shot": "S3",
+   "at": "Đọc"
+  },
+  {
+   "shot": "S4",
+   "at": "Nghe"
+  },
+  {
+   "shot": "S5",
+   "at": "Tranh"
+  },
+  {
+   "shot": "S109",
+   "at": "mà"
+  },
+  {
+   "shot": "S6",
+   "at": "Họ"
+  },
+  {
+   "shot": "S7",
+   "at": "Họ"
+  },
+  {
+   "shot": "S8",
+   "at": "Hôm"
+  },
+  {
+   "shot": "S9",
+   "at": "cách"
+  },
+  {
+   "shot": "S10",
+   "at": "Hơn"
+  },
+  {
+   "shot": "S11",
+   "at": "có"
+  },
+  {
+   "shot": "S12",
+   "at": "Ông#2"
+  },
+  {
+   "shot": "S13",
+   "at": "Hỏi#2"
+  },
+  {
+   "shot": "S14",
+   "at": "Người#2"
+  },
+  {
+   "shot": "S15",
+   "at": "Và"
+  },
+  {
+   "shot": "S16",
+   "at": "công"
+  },
+  {
+   "shot": "S17",
+   "at": "Có#2"
+  },
+  {
+   "shot": "S18",
+   "at": "Kiểu#2"
+  },
+  {
+   "shot": "S19",
+   "at": "Kiểu"
+  },
+  {
+   "shot": "S110",
+   "at": "và"
+  },
+  {
+   "shot": "S20",
+   "at": "Kiểu"
+  },
+  {
+   "shot": "S21",
+   "at": "Kiểu"
+  },
+  {
+   "shot": "S22",
+   "at": "Sáu"
+  },
+  {
+   "shot": "S23",
+   "at": "Câu#2"
+  },
+  {
+   "shot": "S24",
+   "at": "Sếp"
+  },
+  {
+   "shot": "S25",
+   "at": "Phần"
+  },
+  {
+   "shot": "S26",
+   "at": "rồi"
+  },
+  {
+   "shot": "S27",
+   "at": "Người"
+  },
+  {
+   "shot": "S28",
+   "at": "Số"
+  },
+  {
+   "shot": "S29",
+   "at": "Một"
+  },
+  {
+   "shot": "S30",
+   "at": "Rất"
+  },
+  {
+   "shot": "S31",
+   "at": "Câu"
+  },
+  {
+   "shot": "S32",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S33",
+   "at": "đến"
+  },
+  {
+   "shot": "S34",
+   "at": "Đầu"
+  },
+  {
+   "shot": "S35",
+   "at": "nó"
+  },
+  {
+   "shot": "S36",
+   "at": "Hãy"
+  },
+  {
+   "shot": "S37",
+   "at": "Điều"
+  },
+  {
+   "shot": "S38",
+   "at": "nó"
+  },
+  {
+   "shot": "S39",
+   "at": "Giả"
+  },
+  {
+   "shot": "S40",
+   "at": "Bạn"
+  },
+  {
+   "shot": "S41",
+   "at": "Câu"
+  },
+  {
+   "shot": "S42",
+   "at": "Một"
+  },
+  {
+   "shot": "S43",
+   "at": "kèm"
+  },
+  {
+   "shot": "S44",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S45",
+   "at": "Hãy"
+  },
+  {
+   "shot": "S46",
+   "at": "Có"
+  },
+  {
+   "shot": "S47",
+   "at": "Và"
+  },
+  {
+   "shot": "S48",
+   "at": "Người"
+  },
+  {
+   "shot": "S49",
+   "at": "Đó"
+  },
+  {
+   "shot": "S50",
+   "at": "Câu#2"
+  },
+  {
+   "shot": "S51",
+   "at": "Mẹ"
+  },
+  {
+   "shot": "S52",
+   "at": "Bạn#2"
+  },
+  {
+   "shot": "S53",
+   "at": "Nhưng"
+  },
+  {
+   "shot": "S54",
+   "at": "và"
+  },
+  {
+   "shot": "S55",
+   "at": "Số"
+  },
+  {
+   "shot": "S56",
+   "at": "Cả"
+  },
+  {
+   "shot": "S57",
+   "at": "Câu"
+  },
+  {
+   "shot": "S58",
+   "at": "Bị"
+  },
+  {
+   "shot": "S59",
+   "at": "bạn"
+  },
+  {
+   "shot": "S60",
+   "at": "Hãy"
+  },
+  {
+   "shot": "S61",
+   "at": "Tháng"
+  },
+  {
+   "shot": "S62",
+   "at": "Đi"
+  },
+  {
+   "shot": "S63",
+   "at": "Mỗi"
+  },
+  {
+   "shot": "S64",
+   "at": "Người"
+  },
+  {
+   "shot": "S65",
+   "at": "Họ"
+  },
+  {
+   "shot": "S66",
+   "at": "Và"
+  },
+  {
+   "shot": "S67",
+   "at": "Rất"
+  },
+  {
+   "shot": "S68",
+   "at": "Họ"
+  },
+  {
+   "shot": "S69",
+   "at": "mà"
+  },
+  {
+   "shot": "S70",
+   "at": "Câu"
+  },
+  {
+   "shot": "S71",
+   "at": "Hỏi#2"
+  },
+  {
+   "shot": "S72",
+   "at": "Giống"
+  },
+  {
+   "shot": "S73",
+   "at": "Nhưng#2"
+  },
+  {
+   "shot": "S74",
+   "at": "dùng"
+  },
+  {
+   "shot": "S75",
+   "at": "Nếu"
+  },
+  {
+   "shot": "S76",
+   "at": "thì"
+  },
+  {
+   "shot": "S77",
+   "at": "Socrates"
+  },
+  {
+   "shot": "S78",
+   "at": "Ông"
+  },
+  {
+   "shot": "S79",
+   "at": "Khác"
+  },
+  {
+   "shot": "S80",
+   "at": "một"
+  },
+  {
+   "shot": "S81",
+   "at": "Có"
+  },
+  {
+   "shot": "S82",
+   "at": "tôi"
+  },
+  {
+   "shot": "S83",
+   "at": "Nghe"
+  },
+  {
+   "shot": "S84",
+   "at": "Vì"
+  },
+  {
+   "shot": "S85",
+   "at": "Còn"
+  },
+  {
+   "shot": "S86",
+   "at": "Vậy"
+  },
+  {
+   "shot": "S87",
+   "at": "Thứ"
+  },
+  {
+   "shot": "S88",
+   "at": "Trước"
+  },
+  {
+   "shot": "S89",
+   "at": "hãy"
+  },
+  {
+   "shot": "S90",
+   "at": "dựa"
+  },
+  {
+   "shot": "S91",
+   "at": "Làm"
+  },
+  {
+   "shot": "S92",
+   "at": "Thứ"
+  },
+  {
+   "shot": "S93",
+   "at": "Lấy"
+  },
+  {
+   "shot": "S94",
+   "at": "Ví"
+  },
+  {
+   "shot": "S95",
+   "at": "Rồi"
+  },
+  {
+   "shot": "S111",
+   "at": "Ý"
+  },
+  {
+   "shot": "S96",
+   "at": "Dựa"
+  },
+  {
+   "shot": "S97",
+   "at": "Rồi"
+  },
+  {
+   "shot": "S98",
+   "at": "Nhiều"
+  },
+  {
+   "shot": "S99",
+   "at": "Thứ#2"
+  },
+  {
+   "shot": "S100",
+   "at": "Lần"
+  },
+  {
+   "shot": "S101",
+   "at": "đừng"
+  },
+  {
+   "shot": "S102",
+   "at": "sao"
+  },
+  {
+   "shot": "S103",
+   "at": "Nhiều"
+  },
+  {
+   "shot": "S104",
+   "at": "Những"
+  },
+  {
+   "shot": "S105",
+   "at": "mà"
+  },
+  {
+   "shot": "S106",
+   "at": "Sáu"
+  },
+  {
+   "shot": "S107",
+   "at": "Nếu"
+  },
+  {
+   "shot": "S108",
+   "at": "có"
+  },
+  {
+   "shot": "S112",
+   "at": "và"
+  },
+  {
+   "shot": "S113",
+   "at": "Và"
+  },
+  {
+   "shot": "S114",
+   "at": "người"
+  },
+  {
+   "shot": "S115",
+   "at": "Người"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S8",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5
+  },
+  {
+   "at": "S26+4",
+   "kind": "shake",
+   "len": 6,
+   "amp": 6
+  },
+  {
+   "at": "S73",
+   "kind": "flash",
+   "color": "#FF5A4A",
+   "o": 0.3
+  },
+  {
+   "at": "S115",
+   "kind": "flash",
+   "color": "#FFD43B",
+   "o": 0.4
+  }
+ ],
+ "tail": 2.0,
+ "captions": {
+  "maxWords": 5
+ },
+ "gaps": {
+  "word": 0.14,
+  "comma": 0.24,
+  "sentence": 0.42,
+  "question": 0.5
+ },
+ "chapters": [
+  {
+   "from": "S23",
+   "hook": [
+    "6 CÂU HỎI SOCRATES",
+    "CÂU 1: Ý BẠN LÀ GÌ?"
+   ],
+   "accent": "CÂU 1"
+  },
+  {
+   "from": "S31",
+   "hook": [
+    "6 CÂU HỎI SOCRATES",
+    "CÂU 2: MẶC ĐỊNH GÌ?"
+   ],
+   "accent": "CÂU 2"
+  },
+  {
+   "from": "S41",
+   "hook": [
+    "6 CÂU HỎI SOCRATES",
+    "CÂU 3: DỰA VÀO ĐÂU?"
+   ],
+   "accent": "CÂU 3"
+  },
+  {
+   "from": "S50",
+   "hook": [
+    "6 CÂU HỎI SOCRATES",
+    "CÂU 4: HỌ THẤY GÌ?"
+   ],
+   "accent": "CÂU 4"
+  },
+  {
+   "from": "S57",
+   "hook": [
+    "6 CÂU HỎI SOCRATES",
+    "CÂU 5: RỒI SAO NỮA?"
+   ],
+   "accent": "CÂU 5"
+  },
+  {
+   "from": "S66",
+   "hook": [
+    "6 CÂU HỎI SOCRATES",
+    "CÂU 6: HỎI ĐÚNG CHƯA?"
+   ],
+   "accent": "CÂU 6"
+  },
+  {
+   "from": "S73",
+   "hook": [
+    "CẨN THẬN",
+    "CÁI BẪY KHI ĐẶT CÂU HỎI"
+   ],
+   "accent": "CÁI BẪY"
+  },
+  {
+   "from": "S86",
+   "hook": [
+    "LUYỆN 6 CÂU HỎI",
+    "MỖI NGÀY"
+   ],
+   "accent": "MỖI NGÀY"
+  },
+  {
+   "from": "S106",
+   "hook": [
+    "6 CÂU HỎI GIÚP BẠN",
+    "KHÔNG BỊ DẮT MŨI"
+   ],
+   "accent": "6 CÂU HỎI"
+  }
+ ],
+ "cover": {
+  "shot": "S22",
+  "t": 60,
+  "text": [
+   "6 CÂU HỎI GIÚP BẠN",
+   "KHÔNG BỊ DẮT MŨI"
+  ]
+ },
+ "bookChip": false
+}

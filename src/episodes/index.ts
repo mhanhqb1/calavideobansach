@@ -2,5 +2,6 @@
 import { copyPaste } from './copy-paste';
 import { dacNhanTam } from './dac-nhan-tam';
 import { dacNhanTam5p } from './dac-nhan-tam-5p';
+import { phuongPhapDatCauHoiCuaSocrates5p } from './phuong-phap-dat-cau-hoi-cua-socrates-5p';
 
-export const EPISODES = [copyPaste, dacNhanTam, dacNhanTam5p];
+export const EPISODES = [copyPaste, dacNhanTam, dacNhanTam5p, phuongPhapDatCauHoiCuaSocrates5p];

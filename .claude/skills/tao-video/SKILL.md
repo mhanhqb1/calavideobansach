@@ -18,17 +18,17 @@ phụ đề, khung dọc, CTA). Chạy mọi lệnh từ thư mục gốc của 
 - Slug: tên sách bỏ dấu, chữ thường, nối bằng `-` (đ → d). Video từ 1 phút trở lên thêm hậu tố `-<N>p`
   (`nha-gia-kim-3p`). Nếu `src/episodes/<slug>` đã có thì thêm `-2`, `-3`...
 - Chọn khuôn:
-  - **Ngắn** (dưới 1 phút): mẫu `src/episodes/dac-nhan-tam/`, 25-40 s, công thức 4 nhịp trong README.md.
+  - **Ngắn** (dưới 1 phút): mẫu `src/episodes/dac-nhan-tam/`, 30-60 s, cách viết ở mục 3.
   - **Dài** (từ 1 phút): mẫu `src/episodes/dac-nhan-tam-5p/` (kit.tsx, chapters, nhiều đoạn script).
 - Định lượng (đo từ tập 5 phút: 1055 từ, 121 cảnh, 4:57 ở tốc độ 1.05): khoảng **210 từ/phút** lời đọc và
-  **24 cảnh/phút** (mỗi cảnh 2-3 s). Tập ngắn: 60-100 âm tiết, 4-8 cảnh.
+  **24 cảnh/phút** (mỗi cảnh 2-3 s). Tập ngắn: 100-190 âm tiết, 10-20 cảnh.
 
 Báo người dùng một dòng: slug, khuôn, độ dài mục tiêu, rồi làm tiếp.
 
 ## 1. Tư liệu sách
 
-Dùng WebSearch tìm: năm xuất bản, số bản bán, cấu trúc chương, 3-8 ý chính, câu chuyện có thật hoặc giai thoại
-trong sách, câu trích ngắn. Mỗi con số hay sự kiện sẽ đọc lên phải có một mục trong `science`
+Dùng WebSearch tìm: **nỗi đau / vấn đề đời thường** mà sách giải quyết, các phương pháp và câu nói cụ thể dùng
+được ngay, ẩn dụ hay, câu trích ngắn. Cấu trúc chương chỉ để hiểu sách, KHÔNG đưa vào kịch bản (xem mục 3). Mỗi con số hay sự kiện sẽ đọc lên phải có một mục trong `science`
 (`claim`, `working`, `source`). Không tìm được nguồn thì không dùng con số đó. Không hứa kết quả chắc chắn.
 
 ## 2. Tạo khung tập
@@ -50,10 +50,28 @@ kit.tsx để biết các khuôn cảnh: `close`, `room`, `street`, `rule`, `quo
 - `topic`, `title`, `hook` (2 dòng IN HOA, mỗi dòng tối đa khoảng 18 ký tự), `accent` (một cụm trong hook).
 - `tts: "google"`, `voice: {"google": "vi-VN-Chirp3-HD-Sadaltager", "speed": 1.1}`. Tốc độ chỉ trong 1.05-1.1,
   trừ khi người dùng yêu cầu khác. Video dài dùng 1.05.
-- `script`: tập ngắn theo công thức trong README.md. Tập dài chia 12-20 đoạn `{"beat", "text"}`, mỗi đoạn dưới
-  5000 byte UTF-8 (khoảng 900 từ, thực tế nên giữ 40-90 từ). Mạch truyện như tập 5p: hook "Điều gì xảy ra nếu..."
-  thành một hình ảnh, rồi các phần / chương của sách xen chuyện thật, một cú chuyển (cái bẫy, cách hiểu sai),
-  con số có nguồn, CTA.
+- `script`: tập dài chia 12-20 đoạn `{"beat", "text"}`, mỗi đoạn dưới 5000 byte UTF-8 (thực tế 40-90 từ).
+- **Cách viết nội dung: video là bài học cho người xem, sách chỉ là công cụ.** Không liệt kê chương / mục của
+  sách, không "Chương 1 nói...", không tóm tắt sách. Lấy chủ đề sách biến thành một vấn đề của "bạn", rồi dạy
+  thật. Mẫu tham khảo (reel Facebook đang chạy tốt): "3 tầng nhận thức quyết định cách bạn nhìn thế giới" (sách
+  Phương pháp đặt câu hỏi của Socrates), "Luyện giao tiếp: lộ trình 7 ngày" (sách Nói chuyện là bản năng...),
+  "Bản lĩnh giả điếc" (56 s).
+  - `hook` là tên bài học, giữ suốt video (vd. `LUYỆN GIAO TIẾP` / `LỘ TRÌNH 7 NGÀY`); `chapters` đổi dòng phụ
+    theo từng bước (`NGÀY 1: BIẾT CÁCH TIẾP LỜI`, `TẦNG 2: QUY LUẬT`).
+  - Mở (5-15 s): câu hỏi trúng nỗi đau nói thẳng với "bạn" ("Bạn có biết tại sao cứ đến lúc quan trọng là bạn
+    bí lời?") hoặc một câu khẳng định gắt ("Độ sâu nhận thức quyết định độ cao cuộc đời bạn"), rồi hứa
+    ("Tôi sẽ chia sẻ một lộ trình 7 ngày", "phương pháp ở cuối video").
+  - Thân: một khung đánh số (3 tầng, 5 sai lầm, 7 ngày...). Mỗi bước gồm: tình huống đời thường cụ thể, câu
+    nói mẫu trong ngoặc kép người xem nói theo được, một ẩn dụ hình ảnh (núi băng, củ hành, kim tự tháp, "lời cay
+    nghiệt là rác, cúi nhặt chỉ bẩn tay"), và so sánh hai kiểu người (người nhìn hiện tượng / người nhìn quy luật).
+  - Cuối thân: cách luyện ngay ("Thứ nhất... thứ hai... thứ ba...", "15 phút mỗi tối").
+  - Sách xuất hiện 1 lần, ở khoảng 85-90% video, như công cụ để đi sâu hơn ("Nếu muốn luyện kỹ hơn, cuốn ...
+    có cả bộ câu hỏi để tự tập"), rồi CTA, rồi một câu đúc kết để kết video.
+  - Giọng "tôi" nói với "bạn", câu ngắn, kiểu châm ngôn, đối xứng ("Bạn thẳng thắn, họ bảo bạn dại. Bạn im
+    lặng, họ cho là...").
+- Tập ngắn (dưới 1 phút) kiểu "Bản lĩnh giả điếc": một ý duy nhất, mở "Ở đời có một loại bản lĩnh rất cao gọi
+  là...", 5-8 câu đối xứng sắc, một ẩn dụ, kết bằng câu đúc kết; tên sách chỉ ở thẻ CTA. Không dùng công thức
+  "Điều gì xảy ra nếu..." của README nữa trừ khi người dùng yêu cầu.
 - CTA cuối nhắc xem link hoặc giỏ hàng bên dưới. Không ghi giá, giảm giá, số đã bán của shop. Giữ
   `book.disclosure` mặc định.
 - Tập dài thêm `captions: {"maxWords": 5}`, `gaps` như tập 5p, `chapters` (đổi hook theo từng phần, `from` là
